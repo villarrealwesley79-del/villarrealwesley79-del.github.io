@@ -2,18 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on FinanceCraftedSheets</title>
-    <link>https://financecraftedsheets.github.io/posts/</link>
+    <link>https://villarrealwesley79-del.github.io/posts/</link>
     <description>Recent content in Posts on FinanceCraftedSheets</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://financecraftedsheets.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://villarrealwesley79-del.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to FinanceCraftedSheets Blog</title>
-      <link>https://financecraftedsheets.github.io/posts/hello-world/</link>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://financecraftedsheets.github.io/posts/hello-world/</guid>
-      <description>Introducing our blog — your go-to resource for budgeting tips, financial templates, and money management strategies.</description>
+      <title>5 Excel Spreadsheets Every Freelancer Needs Before Tax Season Hits</title>
+      <link>https://villarrealwesley79-del.github.io/posts/freelancer-spreadsheets/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/freelancer-spreadsheets/</guid>
+      <description>The IRS doesn&amp;#39;t wait. Build these five spreadsheets now so tax season isn&amp;#39;t a disaster.</description>
+    </item>
+    <item>
+      <title>Avalanche vs Snowball: Which Debt Payoff Method Actually Works for You</title>
+      <link>https://villarrealwesley79-del.github.io/posts/avalanche-vs-snowball/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/avalanche-vs-snowball/</guid>
+      <description>Math comparison of debt payoff methods with real numbers and timelines. Why psychology matters more than optimization. How to choose based on your personality.</description>
+    </item>
+    <item>
+      <title>How to Track Spending Without Apps: The 10-Minute Weekly Review</title>
+      <link>https://villarrealwesley79-del.github.io/posts/track-spending-weekly/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/track-spending-weekly/</guid>
+      <description>Manual spending tracking methods using spreadsheets and the weekly review habit that keeps budgets on track. Why manual tracking forces behavioral change better than automation.</description>
+    </item>
+    <item>
+      <title>Negotiate Your APR: Scripts and Steps That Actually Work</title>
+      <link>https://villarrealwesley79-del.github.io/posts/negotiate-lower-apr/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/negotiate-lower-apr/</guid>
+      <description>When to call your credit card company. Exact scripts for APR negotiation. Hardship programs explained. What to do if they say no. Real example: negotiated from 18.5% to 14.2% in one call.</description>
+    </item>
+    <item>
+      <title>Rental Property ROI – The Metrics That Actually Matter</title>
+      <link>https://villarrealwesley79-del.github.io/posts/rental-property-roi/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/rental-property-roi/</guid>
+      <description>Gross rent multiplier is lazy. Here&amp;#39;s what metrics actually tell you if a deal makes sense.</description>
+    </item>
+    <item>
+      <title>Side Hustle Income Tracking – Stop Losing Money Without Knowing It</title>
+      <link>https://villarrealwesley79-del.github.io/posts/side-hustle-tracking/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/side-hustle-tracking/</guid>
+      <description>73% of side hustlers are bleeding money through hidden costs. Track this or watch profit disappear into fees.</description>
+    </item>
+    <item>
+      <title>Sizing Your Emergency Fund for Variable Income (The Real Formula)</title>
+      <link>https://villarrealwesley79-del.github.io/posts/emergency-fund-irregular-income/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/emergency-fund-irregular-income/</guid>
+      <description>The 3-6 months rule doesn&amp;#39;t work for variable income. Here&amp;#39;s how to calculate YOUR emergency fund number with real examples. Includes HYSA options and a realistic build-out timeline.</description>
+    </item>
+    <item>
+      <title>Track Your Net Worth Monthly – It&#39;s Not What You Think It Is</title>
+      <link>https://villarrealwesley79-del.github.io/posts/net-worth-tracking/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/net-worth-tracking/</guid>
+      <description>Your net worth isn&amp;#39;t a vanity metric. It&amp;#39;s the only number that tells you if you&amp;#39;re actually getting richer or just moving money around.</description>
+    </item>
+    <item>
+      <title>What Actually Affects Your Credit Score (And What Doesn&#39;t)</title>
+      <link>https://villarrealwesley79-del.github.io/posts/credit-score-factors/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/credit-score-factors/</guid>
+      <description>The 5 credit score factors with percentages explained. Common myths debunked. Quick wins to boost your score fast. Real numbers from someone who improved from 580 to 750.</description>
+    </item>
+    <item>
+      <title>Zero-Based Budgeting: Every Dollar Has a Job</title>
+      <link>https://villarrealwesley79-del.github.io/posts/zero-based-budgeting/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/zero-based-budgeting/</guid>
+      <description>Learn what zero-based budgeting is and why it works so well for debt payoff. Step-by-step setup guide with real numbers from someone who paid off $43k in debt using this method.</description>
     </item>
   </channel>
 </rss>
