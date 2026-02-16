@@ -1,6 +1,6 @@
 ---
 title: "What Actually Affects Your Credit Score (And What Doesn't)"
-date: 2026-02-14
+date: 2026-02-02
 description: "The 5 credit score factors with percentages explained. Common myths debunked. Quick wins to boost your score fast. Real numbers from someone who improved from 580 to 750."
 author: "Wesley Villarreal"
 tags:

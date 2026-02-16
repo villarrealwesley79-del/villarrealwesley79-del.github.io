@@ -1,6 +1,6 @@
 ---
 title: Rental Property ROI – The Metrics That Actually Matter
-date: 2026-02-14
+date: 2026-02-12
 description: Gross rent multiplier is lazy. Here's what metrics actually tell you if a deal makes sense.
 author: Wesley Villarreal
 tags: [real-estate, rental-property, roi, investing, spreadsheets]

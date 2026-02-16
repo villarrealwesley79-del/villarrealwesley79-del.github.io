@@ -1,6 +1,6 @@
 ---
 title: Track Your Net Worth Monthly – It's Not What You Think It Is
-date: 2026-02-14
+date: 2026-01-29
 description: Your net worth isn't a vanity metric. It's the only number that tells you if you're actually getting richer or just moving money around.
 author: Wesley Villarreal
 tags: [net-worth, financial-tracking, wealth-building, personal-finance]

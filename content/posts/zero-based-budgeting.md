@@ -1,6 +1,6 @@
 ---
 title: "Zero-Based Budgeting: Every Dollar Has a Job"
-date: 2026-02-14
+date: 2026-01-27
 description: "Learn what zero-based budgeting is and why it works so well for debt payoff. Step-by-step setup guide with real numbers from someone who paid off $43k in debt using this method."
 author: "Wesley Villarreal"
 tags:

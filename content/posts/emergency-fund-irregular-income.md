@@ -1,6 +1,6 @@
 ---
 title: "Sizing Your Emergency Fund for Variable Income (The Real Formula)"
-date: 2026-02-14
+date: 2026-02-09
 description: "The 3-6 months rule doesn't work for variable income. Here's how to calculate YOUR emergency fund number with real examples. Includes HYSA options and a realistic build-out timeline."
 author: "Wesley Villarreal"
 tags:

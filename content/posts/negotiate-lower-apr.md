@@ -1,6 +1,6 @@
 ---
 title: "Negotiate Your APR: Scripts and Steps That Actually Work"
-date: 2026-02-14
+date: 2026-02-06
 description: "When to call your credit card company. Exact scripts for APR negotiation. Hardship programs explained. What to do if they say no. Real example: negotiated from 18.5% to 14.2% in one call."
 author: "Wesley Villarreal"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "How to Track Spending Without Apps: The 10-Minute Weekly Review"
-date: 2026-02-14
+date: 2026-01-31
 description: "Manual spending tracking methods using spreadsheets and the weekly review habit that keeps budgets on track. Why manual tracking forces behavioral change better than automation."
 author: "Wesley Villarreal"
 tags:

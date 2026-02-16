@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Personal Finance (So You Stop Thinking About Money)"
-date: 2026-02-16
+date: 2026-02-15
 description: "Set up automated payments, transfers, and tracking so your finances run on autopilot. Stop managing money manually and let the system do the work."
 author: "Wesley Villarreal"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 5 Excel Spreadsheets Every Freelancer Needs Before Tax Season Hits
-date: 2026-02-14
+date: 2026-02-07
 description: The IRS doesn't wait. Build these five spreadsheets now so tax season isn't a disaster.
 author: Wesley Villarreal
 tags: [freelancing, taxes, self-employment, excel, spreadsheets]

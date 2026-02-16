@@ -1,6 +1,6 @@
 ---
 title: "Emergency Fund vs Debt Payoff: Which Comes First?"
-date: 2026-02-16
+date: 2026-02-13
 description: "The ultimate guide to deciding whether to build an emergency fund or pay off debt first. Real math, real scenarios, and a framework that actually works."
 author: "Wesley Villarreal"
 tags:

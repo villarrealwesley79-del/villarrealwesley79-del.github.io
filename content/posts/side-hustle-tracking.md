@@ -1,6 +1,6 @@
 ---
 title: Side Hustle Income Tracking – Stop Losing Money Without Knowing It
-date: 2026-02-14
+date: 2026-02-10
 description: 73% of side hustlers are bleeding money through hidden costs. Track this or watch profit disappear into fees.
 author: Wesley Villarreal
 tags: [side-hustle, freelance, income-tracking, spreadsheets, profit]

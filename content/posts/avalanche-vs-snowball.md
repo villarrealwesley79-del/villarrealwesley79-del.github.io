@@ -1,6 +1,6 @@
 ---
 title: "Avalanche vs Snowball: Which Debt Payoff Method Actually Works for You"
-date: 2026-02-14
+date: 2026-02-04
 description: "Math comparison of debt payoff methods with real numbers and timelines. Why psychology matters more than optimization. How to choose based on your personality."
 author: "Wesley Villarreal"
 tags:
