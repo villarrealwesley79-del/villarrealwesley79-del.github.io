@@ -9,7 +9,7 @@ draft = false
 
 ## Why Tracking Net Worth Changes Financial Lives
 
-Your net worth is the ultimate financial health checkup. This guide explains why it matters and how to track it like a pro, featuring our [Net Worth Tracker Template](https://www.etsy.com/listing/765432109/net-worth-tracker-template) with automatic calculations.
+Your net worth is the ultimate financial health checkup. This guide explains why it matters and how to track it like a pro, featuring our [Net Worth Tracker Template](https://www.etsy.com/shop/FinanceCraftedSheets) with automatic calculations.
 
 ### The 3 Pillars of Financial Success
 1. **Wealth Awareness**: See exactly where your money goes
@@ -45,7 +45,7 @@ Your net worth is the ultimate financial health checkup. This guide explains why
 
 ### Step-by-Step Tracking System
 1. **Gather Statements**: Collect all financial accounts
-2. **Input Data**: Use our [template's](https://www.etsy.com/listing/765432109/net-worth-tracker-template) auto-updating fields
+2. **Input Data**: Use our [template's](https://www.etsy.com/shop/FinanceCraftedSheets) auto-updating fields
 3. **Analyze Trends**: Look for 3-month patterns
 4. **Adjust Habits**: Allocate windfalls toward liabilities
 
@@ -56,4 +56,4 @@ Your net worth is the ultimate financial health checkup. This guide explains why
 
 ## From Surviving to Thriving
 
-Tracking net worth isn't about perfection - it's about progress. Start with what you have, and watch your financial confidence grow. Our [Excel template](https://www.etsy.com/listing/765432109/net-worth-tracker-template) makes it easier than ever to transform data into actionable insights. Remember: The average millionaire reviews their net worth 4 times monthly - consistency is key.
+Tracking net worth isn't about perfection - it's about progress. Start with what you have, and watch your financial confidence grow. Our [Excel template](https://www.etsy.com/shop/FinanceCraftedSheets) makes it easier than ever to transform data into actionable insights. Remember: The average millionaire reviews their net worth 4 times monthly - consistency is key.
