@@ -7,7 +7,7 @@ ShowToc: true
 
 ## Terms of Service
 
-**Last Updated:** February 14, 2025
+**Last Updated:** February 17, 2026
 
 ### 1. Acceptance of Terms
 
@@ -85,6 +85,6 @@ For questions regarding these Terms of Service, please contact:
 
 ---
 
-**Last Revised:** February 14, 2025
+**Last Revised:** February 17, 2026
 
 By continuing to use this Site, you acknowledge that you have read these Terms of Service and agree to be bound by them.

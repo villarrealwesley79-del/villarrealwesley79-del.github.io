@@ -1,0 +1,17 @@
+{{- /* Simple Cookie Consent Banner */ -}}
+<div id="cookie-consent" style="display:none; position:fixed; bottom:0; left:0; right:0; background:#1a1a2e; color:#eee; padding:1rem 1.5rem; font-size:0.9rem; z-index:9999; box-shadow:0 -2px 10px rgba(0,0,0,0.3); text-align:center;">
+    <span>We use cookies (Google Analytics & AdSense) to improve your experience. </span>
+    <a href="/privacy/" style="color:#6db3f2; text-decoration:underline;">Privacy Policy</a>
+    <button onclick="acceptCookies()" style="margin-left:1rem; padding:0.4rem 1.2rem; background:#6db3f2; color:#1a1a2e; border:none; border-radius:4px; cursor:pointer; font-weight:bold;">Accept</button>
+</div>
+<script>
+(function(){
+    if(!localStorage.getItem('cookie-consent')){
+        document.getElementById('cookie-consent').style.display='block';
+    }
+})();
+function acceptCookies(){
+    localStorage.setItem('cookie-consent','accepted');
+    document.getElementById('cookie-consent').style.display='none';
+}
+</script>

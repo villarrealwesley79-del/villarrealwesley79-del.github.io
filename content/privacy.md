@@ -7,7 +7,7 @@ ShowToc: true
 
 ## Privacy Policy
 
-**Last Updated:** February 14, 2025
+**Last Updated:** February 17, 2026
 
 FinanceCraftedSheets ("we," "us," "our," or "Company") operates the FinanceCraftedSheets website and blog. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our website and the choices you have associated with that data.
 
