@@ -191,3 +191,7 @@ The best plan is the one you'll actually follow. If the "optimal" math says atta
 The worst plan is indecision. Decide now. Commit to the plan. Review in 6 months and adjust if you need to. But don't let the "perfect" plan be the enemy of progress.
 
 Start moving in one direction—any direction is better than standing still. Your future self will thank you either way.
+
+---
+
+**Ready to take action?** The **[Savings Goal Tracker](https://financecraftedsheets.etsy.com/listing/4454777557)** on Etsy has everything pre-built — just plug in your numbers and go.

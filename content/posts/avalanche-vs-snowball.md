@@ -249,3 +249,7 @@ Your debt payoff journey is about to begin. Choose the method that keeps you mot
 That's worth more than any interest savings.
 
 Let's get started.
+
+---
+
+**Ready to take action?** The **[Debt Payoff Calculator](https://financecraftedsheets.etsy.com/listing/4454741352)** on Etsy has everything pre-built — just plug in your numbers and go.

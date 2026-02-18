@@ -308,3 +308,7 @@ And that's the goal: Tax prep should feel routine, not terrifying.
 Side hustle taxes don't have to be scary. They just need organization.
 
 You've got this.
+
+---
+
+**Ready to take action?** The **[Freelancer Expense Tracker](https://financecraftedsheets.etsy.com/listing/4455770456)** on Etsy has everything pre-built — just plug in your numbers and go.

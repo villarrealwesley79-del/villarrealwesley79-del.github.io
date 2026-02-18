@@ -35,7 +35,7 @@ $1,950 Wants ($500/month restaurant budget + personal spending)
 $1,300 Savings (debt payoff + our "Date Night Vault")
 ```
 
-We tracked everything with our [Custom Budget Spreadsheet](https://www.etsy.com/shop/FinanceCraftedSheets), which included relationship-specific categories. Pro tip: Add a "Conflict Reserve" category - we allocated $100/month for unexpected compromise purchases (like that $80 cheese board I swore I needed).
+We tracked everything with our [Custom Budget Spreadsheet](https://financecraftedsheets.etsy.com/listing/4455592837), which included relationship-specific categories. Pro tip: Add a "Conflict Reserve" category - we allocated $100/month for unexpected compromise purchases (like that $80 cheese board I swore I needed).
 
 ## The 4 Money Fights All Couples Have (And How We Stopped Them)
 
@@ -65,7 +65,7 @@ We turned budgeting from a chore into a ritual with our "Money & Mimosas" Sunday
    - "We stayed under budget on groceries!"
 
 2. **Review & Adjust (30 min)**
-   - Check all categories using our [Budget Review Template](https://www.etsy.com/shop/FinanceCraftedSheets)
+   - Check all categories using our [Budget Review Template](https://financecraftedsheets.etsy.com/listing/4455592837)
    - Move money between categories as needed
 
 3. **Plan Joy (15 min)**
@@ -94,4 +94,4 @@ This 60-90 minute monthly ritual did more for our relationship than any couples'
 
 Budgeting as a couple isn't about finding the perfect system - it's about creating a living framework that grows with your relationship. When we stopped seeing budgeting as a constraint and started using it as a communication tool, money became our strongest relationship asset instead of our weakest link.
 
-P.S. Need our complete system? Grab the [Ultimate Couple's Budget Kit](https://www.etsy.com/shop/FinanceCraftedSheets) with all our templates, calculators, and our "Money Date Night" conversation starters.
+P.S. Need our complete system? Grab the [Ultimate Couple's Budget Kit](https://financecraftedsheets.etsy.com/listing/4455592837) with all our templates, calculators, and our "Money Date Night" conversation starters.

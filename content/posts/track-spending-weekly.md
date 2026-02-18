@@ -167,3 +167,7 @@ That's it. You don't need an app. You don't need automation. You don't need anyt
 The most successful people with money aren't the ones using the fanciest apps. They're the ones who see their spending clearly and adjust accordingly. Start tracking this week. Start changing your financial life this weekend.
 
 You don't need an app. You need awareness. And awareness comes from 10 minutes per week with a spreadsheet.
+
+---
+
+**Ready to take action?** The **[Monthly Budget Tracker](https://financecraftedsheets.etsy.com/listing/4455592837)** on Etsy has everything pre-built — just plug in your numbers and go.

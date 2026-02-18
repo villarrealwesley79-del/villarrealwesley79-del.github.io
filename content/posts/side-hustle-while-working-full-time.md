@@ -47,3 +47,6 @@ As a former corporate accountant who built a $5k/month real estate analytics sid
 4. Week 4: Optimize based on first client feedback
 
 *Remember*: Consistency beats intensity. Even $500/month extra creates $6k+ annual runway for investments or debt payoff.
+---
+
+**Ready to take action?** The **[Freelancer Expense Tracker](https://financecraftedsheets.etsy.com/listing/4455770456)** on Etsy has everything pre-built — just plug in your numbers and go.

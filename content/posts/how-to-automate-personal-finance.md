@@ -250,3 +250,7 @@ Your future self will wonder why you didn't do this sooner. I know mine does.
 
 - [Getting Things Done](https://www.amazon.com/dp/0143126563/?tag=financecrafte-20) — The systems-thinking framework that makes financial automation click
 - [The One-Page Financial Plan](https://www.amazon.com/dp/0393346242/?tag=financecrafte-20) — Simple, visual approach to designing your automated money system
+
+---
+
+**Ready to take action?** The **[Monthly Budget Tracker](https://financecraftedsheets.etsy.com/listing/4455592837)** on Etsy has everything pre-built — just plug in your numbers and go.

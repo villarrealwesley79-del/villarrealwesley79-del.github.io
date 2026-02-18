@@ -211,3 +211,7 @@ Then:
 Your emergency fund isn't an optional nice-to-have. It's the foundation for financial stability. Size it correctly for your income variability, build it with intention, and watch your financial stress drop significantly.
 
 You deserve financial security. Start building it this week.
+
+---
+
+**Ready to take action?** The **[Savings Goal Tracker](https://financecraftedsheets.etsy.com/listing/4454777557)** on Etsy has everything pre-built — just plug in your numbers and go.

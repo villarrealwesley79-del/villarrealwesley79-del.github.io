@@ -201,4 +201,4 @@ If it doesn't look good in a spreadsheet, it won't look good in reality.
 
 ---
 
-Wesley Villarreal holds an MBA in Accounting and has spent years in financial analysis. He builds Excel and Google Sheets templates to help regular people take control of their money. Find his templates at FinanceCraftedSheets on Etsy.
+Wesley Villarreal holds an MBA in Accounting and has spent years in financial analysis. He builds Excel and Google Sheets templates to help regular people take control of their money. Check out the **[Rental Property Tracker on Etsy](https://financecraftedsheets.etsy.com/listing/4455772720)** — multi-property, maintenance tracking, ROI dashboard, Excel & Google Sheets.

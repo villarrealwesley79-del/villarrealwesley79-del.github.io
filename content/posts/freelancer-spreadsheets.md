@@ -182,3 +182,7 @@ Wesley Villarreal holds an MBA in Accounting and has spent years in financial an
 - [Small Business Taxes Made Easy](https://www.amazon.com/dp/1119952166/?tag=financecrafte-20) — Everything freelancers need to know about quarterly taxes and deductions
 - [Tax-Free Wealth](https://www.amazon.com/dp/0914295558/?tag=financecrafte-20) — Advanced tax strategy for self-employed earners
 - [I Will Teach You to Be Rich](https://www.amazon.com/dp/0984391308/?tag=financecrafte-20) — Build financial systems that work on irregular freelance income
+
+---
+
+**Ready to take action?** The **[Freelancer Expense Tracker](https://financecraftedsheets.etsy.com/listing/4455770456)** on Etsy has everything pre-built — just plug in your numbers and go.

@@ -77,3 +77,6 @@ While Excel dominates in flexibility, YNAB wins for behavior change. Consider st
 
 - [The Psychology of Money](https://www.amazon.com/dp/0857197258/?tag=financecrafte-20) — Why how you think about money matters more than what you do with it
 - [Zero-Based Budgeting: A Practical Guide](https://www.amazon.com/dp/1950902242/?tag=financecrafte-20) — Hands-on implementation guide for Excel-based budgeting
+---
+
+**Ready to take action?** The **[Monthly Budget Tracker](https://financecraftedsheets.etsy.com/listing/4455592837)** on Etsy has everything pre-built — just plug in your numbers and go.

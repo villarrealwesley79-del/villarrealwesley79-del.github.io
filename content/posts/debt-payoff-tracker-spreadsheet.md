@@ -93,3 +93,6 @@ Remember: The average user who updates their tracker weekly pays off debt 8 mont
 - [I Will Teach You to Be Rich](https://www.amazon.com/dp/0984391308/?tag=financecrafte-20) — Practical, no-nonsense guide to paying off debt and building wealth
 - [The Total Money Makeover](https://www.amazon.com/dp/0785288592/?tag=financecrafte-20) — Baby Steps method for destroying debt once and for all
 - [Atomic Habits](https://www.amazon.com/dp/0735211299/?tag=financecrafte-20) — Build the consistent tracking habits that make debt payoff actually stick
+---
+
+**Ready to take action?** The **[Debt Payoff Calculator](https://financecraftedsheets.etsy.com/listing/4454741352)** on Etsy has everything pre-built — just plug in your numbers and go.

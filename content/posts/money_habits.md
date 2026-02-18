@@ -19,7 +19,7 @@ Set aside 15 minutes weekly to:
 2. Adjust category limits
 3. Update savings goals
 
-Use our [automated budget tracker](https://www.etsy.com/shop/FinanceCraftedSheets) to make updates painless.
+Use our [automated budget tracker](https://financecraftedsheets.etsy.com/listing/4455592837) to make updates painless.
 
 ## Habit #2: Impulse Buying "Treats"
 
@@ -33,7 +33,7 @@ Those $50-200 purchases add up:
 2. Wait 30 days
 3. If still wanted, purchase
 
-Track these in our [spending journal template](https://www.etsy.com/shop/FinanceCraftedSheets) with a "Pending" column.
+Track these in our [spending journal template](https://financecraftedsheets.etsy.com/listing/4455592837) with a "Pending" column.
 
 ## Habit #3: Mixing Checking Accounts
 
@@ -49,7 +49,7 @@ Create virtual accounts:
 3. Fun Money
 4. Savings Vaults
 
-Our [multi-account budget template](https://www.etsy.com/shop/FinanceCraftedSheets) automates transfers between these.
+Our [multi-account budget template](https://financecraftedsheets.etsy.com/listing/4455592837) automates transfers between these.
 
 ## Habit #4: Ignoring Small Debts
 
@@ -63,7 +63,7 @@ Our [multi-account budget template](https://www.etsy.com/shop/FinanceCraftedShee
 2. Make minimum payments on all
 3. Attack highest-rate debt first
 
-Use our [debt payoff calculator](https://www.etsy.com/shop/FinanceCraftedSheets) to create a custom plan.
+Use our [debt payoff calculator](https://financecraftedsheets.etsy.com/listing/4455592837) to create a custom plan.
 
 ## Habit #5: DIY Financial Planning
 
@@ -73,7 +73,7 @@ Spreadsheets that are:
 - Not connected to goals
 
 ### Fix: Use Purpose-Built Tools
-Our [financial template bundle](https://www.etsy.com/shop/FinanceCraftedSheets) includes:
+Our [financial template bundle](https://financecraftedsheets.etsy.com/listing/4455592837) includes:
 - Debt trackers with payoff calculators
 - Net worth dashboards
 - Goal-based savings planners

@@ -40,7 +40,7 @@ For automatic updates:
 2. Link your accounts securely
 3. Use `IMPORTHTML()` or `IMPORTXML()` to pull transaction data
 
-> 💡 Pro Tip: If manual entry works better, download our [pre-built financial dashboard template](https://www.etsy.com/shop/FinanceCraftedSheets) that auto-syncs categories and visualizations.
+> 💡 Pro Tip: If manual entry works better, download our [pre-built financial dashboard template](https://financecraftedsheets.etsy.com/listing/4454782382) that auto-syncs categories and visualizations.
 
 ## Step 3: Build Visualizations
 
@@ -63,7 +63,7 @@ Insert clickable table of contents:
 
 ## Bottom Line
 
-A custom dashboard takes time to build but pays dividends through better financial awareness. Save hours with our [ready-to-use financial dashboard templates](https://www.etsy.com/shop/FinanceCraftedSheets) that include all the formulas and visualizations pre-configured.
+A custom dashboard takes time to build but pays dividends through better financial awareness. Save hours with our [ready-to-use financial dashboard templates](https://financecraftedsheets.etsy.com/listing/4454782382) that include all the formulas and visualizations pre-configured.
 
 ## 📚 Recommended Resources
 

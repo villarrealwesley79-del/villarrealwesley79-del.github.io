@@ -221,3 +221,7 @@ That's the whole point.
 ---
 
 Wesley Villarreal holds an MBA in Accounting and has spent years in financial analysis. He builds Excel and Google Sheets templates to help regular people take control of their money. Find his templates at FinanceCraftedSheets on Etsy.
+
+---
+
+**Ready to take action?** The **[Freelancer Expense Tracker](https://financecraftedsheets.etsy.com/listing/4455770456)** on Etsy has everything pre-built — just plug in your numbers and go.

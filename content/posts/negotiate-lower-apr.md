@@ -315,3 +315,7 @@ Negotiating APR isn't about getting a company to "give" you something. It's abou
 Make the call this week. Worst case, they say no and you're in the same position. Best case, you save thousands of dollars over the next few years.
 
 The math is worth 45 minutes of your time.
+
+---
+
+**Ready to take action?** The **[Debt Payoff Calculator](https://financecraftedsheets.etsy.com/listing/4454741352)** on Etsy has everything pre-built — just plug in your numbers and go.

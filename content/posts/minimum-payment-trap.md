@@ -107,7 +107,7 @@ Paying on time makes you feel responsible while the debt snowball barely moves. 
 
 ### Step 1: The Payment Boost Ladder
 
-Start with our [Minimum Payment Calculator](https://www.etsy.com/shop/FinanceCraftedSheets) to find your break-even point. For $10k debt:
+Start with our [Minimum Payment Calculator](https://financecraftedsheets.etsy.com/listing/4454741352) to find your break-even point. For $10k debt:
 
 - Add $50: Debt gone in 6 years vs 18
 - Add $100: Gone in 3.5 years
@@ -119,7 +119,7 @@ Start with our [Minimum Payment Calculator](https://www.etsy.com/shop/FinanceCra
 2. Make minimum payments on all
 3. Attack highest-rate debt first
 
-Use our [Avalanche Tracker](https://www.etsy.com/shop/FinanceCraftedSheets) to visualize progress. Watching high-interest debt disappear creates momentum.
+Use our [Avalanche Tracker](https://financecraftedsheets.etsy.com/listing/4454741352) to visualize progress. Watching high-interest debt disappear creates momentum.
 
 ### Step 3: The Balance Transfer Hack
 
@@ -137,10 +137,10 @@ When debt exceeds 40% of income:
 
 ## The Tools That Actually Work
 
-1. **[Debt Timeline Visualizer](https://www.etsy.com/shop/FinanceCraftedSheets)**: See exactly when you'll be free
-2. **[Payment Impact Simulator](https://www.etsy.com/shop/FinanceCraftedSheets)**: Play "what-if" with extra payments
+1. **[Debt Timeline Visualizer](https://financecraftedsheets.etsy.com/listing/4454741352)**: See exactly when you'll be free
+2. **[Payment Impact Simulator](https://financecraftedsheets.etsy.com/listing/4454741352)**: Play "what-if" with extra payments
 3. **Cashflow Optimization Spreadsheet**: Redirect funds toward debt
 
 Minimum payments aren't a lifeline - they're financial quicksand. When I committed to paying $100 extra monthly on my $10k debt, my 18-year timeline collapsed to 3.5 years. That's not willpower - it's arithmetic finally working in my favor. Your money deserves better than being a bank's interest farm.
 
-P.S. Grab our [Debt Freedom Toolkit](https://www.etsy.com/shop/FinanceCraftedSheets) with all the calculators, trackers, and our "Payment Boost" planner to create your escape route.
+P.S. Grab our [Debt Freedom Toolkit](https://financecraftedsheets.etsy.com/listing/4454741352) with all the calculators, trackers, and our "Payment Boost" planner to create your escape route.
