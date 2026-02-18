@@ -113,6 +113,20 @@ Create a Dividends tab with date, ticker, amount, and account. Sum by year for t
 3. **Only tracking winners** — Track everything or your allocation picture is wrong
 4. **No rebalancing triggers** — Set a rule (e.g., rebalance when any asset class drifts 5%+)
 
+## Troubleshooting Common Google Sheets Issues
+
+**GOOGLEFINANCE() returns an error or stops updating**
+This happens when the ticker symbol changes, a company goes private, or Google's data feed has a delay. Fix: check the exact ticker on Google Finance, use a backup formula like `IMPORTXML()` for stubborn cases, or manually enter the price until the feed recovers.
+
+**Stock got delisted or acquired**
+Replace `GOOGLEFINANCE()` with the acquisition price and mark the position as "closed." Move it to your Transactions tab so your cost basis history stays intact.
+
+**Multi-currency portfolios**
+Use `=GOOGLEFINANCE("CURRENCY:USDEUR")` to pull live exchange rates. Create a "FX Rates" tab and reference it in your Holdings sheet so all values convert to your base currency automatically.
+
+**Sheet runs slow with many tickers**
+GOOGLEFINANCE calls run on Google's servers but can lag with 50+ tickers. Fix: group all your `GOOGLEFINANCE()` pulls onto one "Prices" tab, then reference that tab from your Holdings sheet — one lookup per ticker instead of many.
+
 ## Key Takeaways
 
 1. Manual tracking builds real financial literacy — you notice things apps don't surface
