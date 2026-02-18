@@ -202,3 +202,7 @@ If you want to track your credit score improvement over time as you pay off debt
 Your credit score is just a number, but it's a powerful number. Understanding what moves it—and what doesn't—lets you take control of it instead of being confused by it. Start with the fundamentals: pay on time, keep utilization low, and let time do the rest.
 
 You don't need perfection. You need consistency. Start this week.
+
+---
+
+**Take control of your finances:** Browse our full collection of budget templates, debt trackers, and financial planners at **[FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets)**.
