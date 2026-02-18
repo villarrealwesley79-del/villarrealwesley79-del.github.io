@@ -7,6 +7,14 @@ ShowToc: false
 
 ## Financial Disclaimer
 
+## Affiliate Disclosure
+
+Some links on this website are affiliate links. This means if you click a link and make a purchase, FinanceCraftedSheets may earn a small commission at no extra cost to you. This helps support the blog and allows us to continue creating free content. We only recommend products we genuinely believe in.
+
+FinanceCraftedSheets is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
+---
+
 **IMPORTANT — PLEASE READ CAREFULLY**
 
 ### Informational and Educational Purposes Only

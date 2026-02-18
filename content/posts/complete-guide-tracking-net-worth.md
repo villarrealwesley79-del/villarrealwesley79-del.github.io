@@ -7,6 +7,10 @@ categories = ["Personal Finance"]
 draft = false
 +++
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 ## Why Tracking Net Worth Changes Financial Lives
 
 Your net worth is the ultimate financial health checkup. This guide explains why it matters and how to track it like a pro, featuring our [Net Worth Tracker Template](https://www.etsy.com/shop/FinanceCraftedSheets) with automatic calculations.
@@ -57,3 +61,8 @@ Your net worth is the ultimate financial health checkup. This guide explains why
 ## From Surviving to Thriving
 
 Tracking net worth isn't about perfection - it's about progress. Start with what you have, and watch your financial confidence grow. Our [Excel template](https://www.etsy.com/shop/FinanceCraftedSheets) makes it easier than ever to transform data into actionable insights. Remember: The average millionaire reviews their net worth 4 times monthly - consistency is key.
+
+## 📚 Recommended Resources
+
+- [The Index Card](https://www.amazon.com/dp/1591846978/?tag=financecrafte-20) — The 9 simple rules of personal finance on a single index card
+- [The Bogleheads' Guide to Investing](https://www.amazon.com/dp/0470067365/?tag=financecrafte-20) — The classic guide to building wealth through low-cost investing

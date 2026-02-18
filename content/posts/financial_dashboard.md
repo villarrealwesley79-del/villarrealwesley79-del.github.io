@@ -6,6 +6,10 @@ tags: ["budgeting", "Google Sheets", "financial tracking", "templates"]
 ShowToc: true
 ---
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 ## Why Build a Financial Dashboard?
 
 A well-designed financial dashboard gives you a 360° view of your money at a glance. Unlike static budget templates, a live dashboard updates automatically as you input data, making it perfect for tracking net worth, spending patterns, and savings progress.
@@ -60,3 +64,8 @@ Insert clickable table of contents:
 ## Bottom Line
 
 A custom dashboard takes time to build but pays dividends through better financial awareness. Save hours with our [ready-to-use financial dashboard templates](https://www.etsy.com/shop/FinanceCraftedSheets) that include all the formulas and visualizations pre-configured.
+
+## 📚 Recommended Resources
+
+- [Excel 2024 All-in-One For Dummies](https://www.amazon.com/dp/1394210949/?tag=financecrafte-20) — Master the Excel formulas powering your dashboard
+- [Financial Modeling in Excel For Dummies](https://www.amazon.com/dp/1119571812/?tag=financecrafte-20) — Advanced charting and visualization techniques for finance data

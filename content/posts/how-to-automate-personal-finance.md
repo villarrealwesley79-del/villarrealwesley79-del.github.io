@@ -12,6 +12,10 @@ categories:
   - Financial Systems
 ---
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 Here's the uncomfortable truth: Most people don't fail at money management because they're stupid or irresponsible. They fail because they have to *remember* to manage money every single day.
 
 You have to remember to transfer money to savings. Remember to pay bills on time. Remember to check your account. Remember to update your budget. It's exhausting. Your willpower gets drained. Something slips through the cracks. And suddenly you're behind on a payment or you've "forgotten" about that savings goal.
@@ -241,3 +245,8 @@ Pick one piece this week:
 One piece per week. By month 2, you'll have a fully automated financial system running in the background while you focus on life.
 
 Your future self will wonder why you didn't do this sooner. I know mine does.
+
+## 📚 Recommended Resources
+
+- [Getting Things Done](https://www.amazon.com/dp/0143126563/?tag=financecrafte-20) — The systems-thinking framework that makes financial automation click
+- [The One-Page Financial Plan](https://www.amazon.com/dp/0393346242/?tag=financecrafte-20) — Simple, visual approach to designing your automated money system

@@ -7,6 +7,10 @@ categories: ["Budgeting Tools"]
 draft: false
 ---
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 ## The Great Budget Battle: YNAB vs Excel
 
 In 2026, choosing between YNAB and Excel for budgeting feels like picking between a purpose-built sports car and a customizable hot rod. Both get you to financial clarity, but the journey matters.
@@ -68,3 +72,8 @@ For most users, YNAB's intuitive interface and behavioral nudges make it the sup
 ### Final Thoughts
 
 While Excel dominates in flexibility, YNAB wins for behavior change. Consider starting with YNAB's free trial, then export your data to Excel annually for long-term trend analysis. This hybrid approach leverages both tools' strengths.
+
+## 📚 Recommended Resources
+
+- [The Psychology of Money](https://www.amazon.com/dp/0857197258/?tag=financecrafte-20) — Why how you think about money matters more than what you do with it
+- [Zero-Based Budgeting: A Practical Guide](https://www.amazon.com/dp/1950902242/?tag=financecrafte-20) — Hands-on implementation guide for Excel-based budgeting

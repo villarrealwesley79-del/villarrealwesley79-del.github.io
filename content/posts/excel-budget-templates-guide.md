@@ -7,6 +7,10 @@ categories = ["Finance Tools"]
 draft = false
 +++
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 ## Why Excel Budget Templates Still Rule in 2026
 
 In an age of flashy finance apps, Excel spreadsheets remain the gold standard for customizable, ad-free budgeting. This guide reviews 5 battle-tested templates from our [FinanceCraftedSheets Etsy shop](https://www.etsy.com/shop/FinanceCraftedSheets) that cater to different financial situations.
@@ -38,3 +42,11 @@ In an age of flashy finance apps, Excel spreadsheets remain the gold standard fo
 
 ## Choosing Your Perfect Match
 For most users, we recommend starting with the Zero-Based Budget Master for comprehensive control. Visit [FinanceCraftedSheets Etsy shop](https://www.etsy.com/shop/FinanceCraftedSheets) for all templates with lifetime updates included.
+
+## 📚 Recommended Resources
+
+Take your budgeting further with these highly-rated books:
+
+- [Budgeting For Dummies](https://www.amazon.com/dp/1119985145/?tag=financecrafte-20) — The definitive beginner's guide to building a budget that sticks
+- [Excel for Budgeting: A Practical Guide](https://www.amazon.com/dp/1950902242/?tag=financecrafte-20) — Master Excel formulas and layouts for personal finance tracking
+- [The Total Money Makeover](https://www.amazon.com/dp/0785288592/?tag=financecrafte-20) — Dave Ramsey's proven debt-elimination system

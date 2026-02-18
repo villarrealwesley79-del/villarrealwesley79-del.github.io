@@ -7,6 +7,10 @@ categories: ["Debt Management"]
 draft: false
 ---
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 ## Crush Your Debt: The Ultimate Tracking Guide
 
 Did you know people who track their debt visually reach payoff 34% faster? (FinanceCraft Study 2025) Let's unlock your debt-free future with our free spreadsheet template and Etsy upgrade options.
@@ -83,3 +87,9 @@ The premium Etsy template adds:
 - Review your "why" regularly
 
 Remember: The average user who updates their tracker weekly pays off debt 8 months faster than sporadic users. Consistency beats intensity every time.
+
+## 📚 Recommended Resources
+
+- [I Will Teach You to Be Rich](https://www.amazon.com/dp/0984391308/?tag=financecrafte-20) — Practical, no-nonsense guide to paying off debt and building wealth
+- [The Total Money Makeover](https://www.amazon.com/dp/0785288592/?tag=financecrafte-20) — Baby Steps method for destroying debt once and for all
+- [Atomic Habits](https://www.amazon.com/dp/0735211299/?tag=financecrafte-20) — Build the consistent tracking habits that make debt payoff actually stick

@@ -7,6 +7,10 @@ tags: [freelancing, taxes, self-employment, excel, spreadsheets]
 categories: [Freelancing, Tax Planning]
 ---
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 Tax day for freelancers is a special kind of stress. You're not just filing — you're self-employed, which means the IRS expects you to pay quarterly estimated taxes, track everything yourself, and somehow remember deductions from October when it's now April.
 
 I've watched freelancers panic in January looking for receipts. I've seen people owe thousands they didn't budget for. It doesn't have to be that way.
@@ -172,3 +176,9 @@ Build these now. Thank yourself in April.
 ---
 
 Wesley Villarreal holds an MBA in Accounting and has spent years in financial analysis. He builds Excel and Google Sheets templates to help regular people take control of their money. Find his templates at FinanceCraftedSheets on Etsy.
+
+## 📚 Recommended Resources
+
+- [Small Business Taxes Made Easy](https://www.amazon.com/dp/1119952166/?tag=financecrafte-20) — Everything freelancers need to know about quarterly taxes and deductions
+- [Tax-Free Wealth](https://www.amazon.com/dp/0914295558/?tag=financecrafte-20) — Advanced tax strategy for self-employed earners
+- [I Will Teach You to Be Rich](https://www.amazon.com/dp/0984391308/?tag=financecrafte-20) — Build financial systems that work on irregular freelance income

@@ -12,6 +12,10 @@ categories:
   - Financial Control
 ---
 
+> **Affiliate Disclosure:** This post contains Amazon affiliate links. If you click a link and make a purchase, we may earn a small commission at no extra cost to you. See our [full disclosure](/disclaimer/).
+
+---
+
 For years, I felt like my paycheck disappeared into a black hole. I'd make decent money, but by month's end, I couldn't explain where it went. My debt kept growing, and I had no idea why. That all changed when I discovered zero-based budgeting—and honestly, it saved my financial life.
 
 Most of us were never taught how money actually works. We just spend what feels right and hope it works out. But zero-based budgeting is different. It's a method where you intentionally assign every single dollar you earn to a specific purpose before you spend it. No guessing. No surprises. No money leaking away without explanation.
@@ -93,3 +97,9 @@ Your financial freedom doesn't happen by accident. It happens by design. And des
 Ready to take control? Download a template, set up your zero-based budget this weekend, and start your debt payoff journey with intention.
 
 You've got this.
+
+## 📚 Recommended Resources
+
+- [Your Money or Your Life](https://www.amazon.com/dp/0143115766/?tag=financecrafte-20) — The philosophy behind intentional, zero-based spending
+- [Profit First](https://www.amazon.com/dp/0061595891/?tag=financecrafte-20) — A proven system for allocating every dollar with purpose
+- [Budgeting For Dummies](https://www.amazon.com/dp/1119985145/?tag=financecrafte-20) — Step-by-step foundation for new budgeters
