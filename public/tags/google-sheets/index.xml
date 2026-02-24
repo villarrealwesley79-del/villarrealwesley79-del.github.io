@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Google Sheets on FinanceCraftedSheets</title><link>https://villarrealwesley79-del.github.io/tags/google-sheets/</link><description>Recent content in Google Sheets on FinanceCraftedSheets</description><generator>Hugo -- 0.155.3</generator><language>en-us</language><lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://villarrealwesley79-del.github.io/tags/google-sheets/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Track Your Investment Portfolio in Google Sheets (Without Paying for an App)</title><link>https://villarrealwesley79-del.github.io/posts/investment-portfolio-tracker/</link><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate><guid>https://villarrealwesley79-del.github.io/posts/investment-portfolio-tracker/</guid><description>Skip the $50/month portfolio apps. Here&amp;#39;s how to build a complete investment tracker in Google Sheets — stocks, ETFs, crypto, retirement accounts, dividends, and more.</description></item><item><title>How to Build a Financial Dashboard in Google Sheets</title><link>https://villarrealwesley79-del.github.io/posts/financial_dashboard/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>https://villarrealwesley79-del.github.io/posts/financial_dashboard/</guid><description>Create a powerful personal finance dashboard in Google Sheets with this step-by-step guide. Includes tips for linking accounts, visualizing data, and using pre-built templates.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Sheets on FinanceCraftedSheets</title>
+    <link>https://villarrealwesley79-del.github.io/tags/google-sheets/</link>
+    <description>Recent content in Google Sheets on FinanceCraftedSheets</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://villarrealwesley79-del.github.io/tags/google-sheets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Track Your Investment Portfolio in Google Sheets (Without Paying for an App)</title>
+      <link>https://villarrealwesley79-del.github.io/posts/investment-portfolio-tracker/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/investment-portfolio-tracker/</guid>
+      <description>Skip the $50/month portfolio apps. Here&amp;#39;s how to build a complete investment tracker in Google Sheets — stocks, ETFs, crypto, retirement accounts, dividends, and more.</description>
+    </item>
+    <item>
+      <title>How to Build a Financial Dashboard in Google Sheets</title>
+      <link>https://villarrealwesley79-del.github.io/posts/financial_dashboard/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://villarrealwesley79-del.github.io/posts/financial_dashboard/</guid>
+      <description>Create a powerful personal finance dashboard in Google Sheets with this step-by-step guide. Includes tips for linking accounts, visualizing data, and using pre-built templates.</description>
+    </item>
+  </channel>
+</rss>
