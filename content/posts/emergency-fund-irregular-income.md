@@ -215,3 +215,6 @@ You deserve financial security. Start building it this week.
 ---
 
 **Ready to take action?** The **[Savings Goal Tracker](https://financecraftedsheets.etsy.com/listing/4454777557)** on Etsy has everything pre-built — just plug in your numbers and go.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

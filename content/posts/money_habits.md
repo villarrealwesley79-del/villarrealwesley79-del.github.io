@@ -86,3 +86,5 @@ Breaking these habits takes time but pays huge dividends. Start with small chang
 3. Review progress in 30 days
 
 Your future self will thank you for making these shifts today.
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

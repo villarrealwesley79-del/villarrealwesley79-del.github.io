@@ -292,3 +292,6 @@ Power BI dashboards are built, not configured. Start simple. Add visuals one at 
 Your first dashboard takes 2-3 hours. Each subsequent dashboard takes less time as you develop pattern recognition for visualization choices.
 
 The barrier to entry is low. The skill compounds quickly. Begin today.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

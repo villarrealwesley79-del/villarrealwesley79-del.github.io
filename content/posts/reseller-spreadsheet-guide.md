@@ -125,3 +125,6 @@ Notice the Nikes — bought for $120, sold for $162, made $18 after fees. Withou
 ---
 
 **Get both tools in one place.** The **[Reseller Inventory Tracker](https://financecraftedsheets.etsy.com/listing/4454807856)** and **[Pricing Calculator](https://financecraftedsheets.etsy.com/listing/4455763671)** on Etsy work together — track your items, calculate your margins, and flag slow movers automatically.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

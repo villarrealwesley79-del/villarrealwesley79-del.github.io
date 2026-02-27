@@ -90,3 +90,6 @@ Start with three envelopes this month. Groceries, dining, and fun money. See how
 ---
 
 *Need a free budget template to get started? Download our zero-based budget spreadsheet — pre-built with envelope categories — at the top of this page.*
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

@@ -167,3 +167,6 @@ These five formulas — PMT, NPER, CUMIPMT, IF, and IPMT/PPMT — give you total
 The hardest part of getting out of debt isn't the math. It's facing the numbers. Once you do, these formulas turn raw balances into a clear, actionable plan with an actual finish line.
 
 Want a pre-built version? Check out our [Debt Payoff Tracker template](/posts/debt-payoff-tracker-spreadsheet/) — it comes with these formulas already wired up, so you just enter your numbers and start tracking.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

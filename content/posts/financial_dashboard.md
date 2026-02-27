@@ -69,3 +69,5 @@ A custom dashboard takes time to build but pays dividends through better financi
 
 - [Excel 2024 All-in-One For Dummies](https://www.amazon.com/dp/1394210949/?tag=financecrafte-20) — Master the Excel formulas powering your dashboard
 - [Financial Modeling in Excel For Dummies](https://www.amazon.com/dp/1119571812/?tag=financecrafte-20) — Advanced charting and visualization techniques for finance data
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

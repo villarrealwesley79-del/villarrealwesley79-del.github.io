@@ -95,3 +95,5 @@ This 60-90 minute monthly ritual did more for our relationship than any couples'
 Budgeting as a couple isn't about finding the perfect system - it's about creating a living framework that grows with your relationship. When we stopped seeing budgeting as a constraint and started using it as a communication tool, money became our strongest relationship asset instead of our weakest link.
 
 P.S. Need our complete system? Grab the [Ultimate Couple's Budget Kit](https://financecraftedsheets.etsy.com/listing/4455592837) with all our templates, calculators, and our "Money Date Night" conversation starters.
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

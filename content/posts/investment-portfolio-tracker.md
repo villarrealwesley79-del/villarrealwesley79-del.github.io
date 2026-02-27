@@ -138,3 +138,6 @@ GOOGLEFINANCE calls run on Google's servers but can lag with 50+ tickers. Fix: g
 ---
 
 **Skip building it from scratch.** The **[Investment Portfolio Tracker](https://financecraftedsheets.etsy.com/listing/4454775765)** on Etsy has all the formulas pre-built — automatic gain/loss calculations, dividend tracking, multi-account support, and a dashboard that updates as you enter data.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

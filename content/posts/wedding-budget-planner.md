@@ -91,3 +91,6 @@ Notice the venue went over (it almost always does) but savings in attire and dec
 ---
 
 **Ready to plan without the stress?** The **[Wedding Budget Planner](https://financecraftedsheets.etsy.com/listing/4455370817)** on Etsy tracks every category with automatic alerts when you hit 80% of your budget — so nothing sneaks up on you.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

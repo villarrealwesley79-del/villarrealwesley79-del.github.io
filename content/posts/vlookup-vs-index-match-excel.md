@@ -201,3 +201,6 @@ Answer yes to any, use INDEX MATCH. Otherwise, VLOOKUP works fine.
 VLOOKUP remains useful for simple, small-scale lookups. INDEX MATCH is the professional choice for complex data structures and growing spreadsheets. Learn both. Use VLOOKUP for quick work. Use INDEX MATCH for production files that others maintain.
 
 The transition takes an afternoon. The payoff compounds as your datasets grow.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

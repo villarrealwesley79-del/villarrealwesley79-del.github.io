@@ -119,3 +119,6 @@ The combination of both gives you a complete financial buffer: one system handle
 ---
 
 *Want a spreadsheet to track your sinking funds and emergency fund progress side by side? Check out our [budget tracker templates](https://www.etsy.com/shop/CraftedSheets) — built in Excel, no subscription required.*
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

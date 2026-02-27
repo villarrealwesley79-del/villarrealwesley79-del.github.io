@@ -67,3 +67,6 @@ Investing in index funds and ETFs can seem intimidating if you're new to the gam
 Take a deep breath, do your research, and start investing today — even if it's just a small amount. Consistency over time is the real secret to building wealth, and index funds give you one of the simplest, lowest-cost ways to do exactly that.
 
 *Want to track your investment portfolio alongside your budget? A well-organized spreadsheet makes all the difference — check out our Excel templates to get started.*
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

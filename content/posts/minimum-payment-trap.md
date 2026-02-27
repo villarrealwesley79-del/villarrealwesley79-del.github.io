@@ -144,3 +144,5 @@ When debt exceeds 40% of income:
 Minimum payments aren't a lifeline - they're financial quicksand. When I committed to paying $100 extra monthly on my $10k debt, my 18-year timeline collapsed to 3.5 years. That's not willpower - it's arithmetic finally working in my favor. Your money deserves better than being a bank's interest farm.
 
 P.S. Grab our [Debt Freedom Toolkit](https://financecraftedsheets.etsy.com/listing/4454741352) with all the calculators, trackers, and our "Payment Boost" planner to create your escape route.
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.

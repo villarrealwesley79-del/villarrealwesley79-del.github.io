@@ -80,3 +80,6 @@ While Excel dominates in flexibility, YNAB wins for behavior change. Consider st
 ---
 
 **Ready to take action?** The **[Monthly Budget Tracker](https://financecraftedsheets.etsy.com/listing/4455592837)** on Etsy has everything pre-built — just plug in your numbers and go.
+
+---
+**Need a ready-made template?** Check out [FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets) — professional Excel & Google Sheets templates built by someone actually managing debt, not theorizing about it.
