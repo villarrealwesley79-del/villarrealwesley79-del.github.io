@@ -3,13 +3,32 @@ title: "Monthly Budget Planner Spreadsheet"
 description: "Track income and expenses with this easy-to-use monthly budget template for Excel and Google Sheets. Automatic calculations and visual charts included."
 date: 2026-03-09
 draft: false
+price: 4.99
+etsy_url: "https://www.etsy.com/listing/4455592837"
+images:
+  - "/images/templates/monthly-budget-planner.png"
+keywords:
+  - "monthly budget planner excel"
+  - "google sheets budget template"
+  - "expense tracker spreadsheet"
+  - "budget planner template"
+  - "personal finance spreadsheet"
+faqs:
+  - q: "Does this work in Google Sheets?"
+    a: "Yes. The template works in both Microsoft Excel and Google Sheets with full functionality."
+  - q: "How do I customize the expense categories?"
+    a: "Simply edit the category names in the designated cells. All formulas will continue to work."
+  - q: "Is this a one-time purchase?"
+    a: "Yes. You pay once and own the template forever. Free updates included."
+  - q: "Do I need advanced Excel skills?"
+    a: "No. The template is designed for beginners. Just enter your numbers and the spreadsheet does the rest."
 ---
 
 # Monthly Budget Planner
 
 **Price: $4.99**
 
-![Monthly Budget Planner](/images/templates/monthly-budget-planner.png)
+![Monthly budget planner spreadsheet template preview showing expense categories and charts](/images/templates/monthly-budget-planner.png)
 
 Take control of your monthly finances with this professional budget spreadsheet. Works in Excel and Google Sheets.
 
@@ -46,23 +65,3 @@ A: No. The template is designed for beginners. Just enter your numbers and the s
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4455592837)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Monthly Budget Planner Spreadsheet",
-  "description": "Track income and expenses with this easy-to-use monthly budget template for Excel and Google Sheets.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "4.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4455592837"
-  }
-}
-</script>

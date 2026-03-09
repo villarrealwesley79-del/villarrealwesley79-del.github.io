@@ -3,13 +3,32 @@ title: "Wedding Budget Spreadsheet"
 description: "Plan your wedding without overspending. This Excel and Google Sheets template tracks every expense from venue to honeymoon."
 date: 2026-03-09
 draft: false
+price: 6.99
+etsy_url: "https://www.etsy.com/listing/4455370817"
+images:
+  - "/images/templates/wedding-budget.png"
+keywords:
+  - "wedding budget spreadsheet"
+  - "wedding expense tracker"
+  - "wedding planner budget"
+  - "google sheets wedding budget"
+  - "wedding cost calculator"
+faqs:
+  - q: "What expense categories are included?"
+    a: "All major wedding categories: venue, catering, bar, photography, videography, flowers, music, officiant, attire, hair/makeup, invitations, favors, transportation, honeymoon, and miscellaneous."
+  - q: "Can I track who's paying for what?"
+    a: "Yes. Assign each expense to a payer (couple, bride's family, groom's family) and see totals by contributor."
+  - q: "Does it help with vendor comparisons?"
+    a: "Yes. There's a section to compare quotes from multiple vendors before making decisions."
+  - q: "Can I use this for a destination wedding?"
+    a: "Absolutely. The template works for any wedding type. Add travel and accommodation categories for destination-specific costs."
 ---
 
 # Wedding Budget Spreadsheet
 
 **Price: $6.99**
 
-![Wedding Budget Planner](/images/templates/wedding-budget.png)
+![Wedding budget spreadsheet template preview showing vendor costs and totals](/images/templates/wedding-budget.png)
 
 Plan your perfect wedding without the financial stress. Track every vendor, payment, and expense in one place.
 
@@ -46,23 +65,3 @@ A: Absolutely. The template works for any wedding type. Add travel and accommoda
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4455370817)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Wedding Budget Spreadsheet",
-  "description": "Plan your wedding without overspending with this Excel and Google Sheets template.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "6.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4455370817"
-  }
-}
-</script>

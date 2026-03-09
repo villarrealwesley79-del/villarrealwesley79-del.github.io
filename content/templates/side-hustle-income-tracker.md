@@ -3,13 +3,32 @@ title: "Side Hustle Income Tracker Spreadsheet"
 description: "Track income from multiple side hustles and gigs with this Excel and Google Sheets template. See earnings by source and month."
 date: 2026-03-09
 draft: false
+price: 3.99
+etsy_url: "https://www.etsy.com/listing/4463838674"
+images:
+  - "/images/templates/side-hustle-tracker.png"
+keywords:
+  - "side hustle income tracker"
+  - "gig income spreadsheet"
+  - "freelance income tracker"
+  - "google sheets income tracker"
+  - "self employment income template"
+faqs:
+  - q: "How many side hustles can I track?"
+    a: "The template supports up to 10 different income sources. Each has its own tracking section and contributes to overall totals."
+  - q: "Does it track expenses too?"
+    a: "This template focuses on income. For expense tracking, see our Freelancer Expense Tracker which pairs well with this template."
+  - q: "Can I see which hustle pays best per hour?"
+    a: "Yes. Enter your hours worked and the template calculates your effective hourly rate for each income source."
+  - q: "Is this useful for taxes?"
+    a: "Yes. The template totals income by source and month, making it easy to report self-employment income on your tax return."
 ---
 
 # Side Hustle Income Tracker
 
 **Price: $3.99**
 
-![Product Screenshot](/images/templates/side-hustle-tracker.png)
+![Side hustle income tracker spreadsheet template preview showing income sources and monthly totals](/images/templates/side-hustle-tracker.png)
 
 Track every dollar from your side hustles. See which gigs are worth your time and which aren't.
 
@@ -46,23 +65,3 @@ A: Yes. The template totals income by source and month, making it easy to report
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4463838674)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Side Hustle Income Tracker Spreadsheet",
-  "description": "Track income from multiple side hustles and gigs with this Excel and Google Sheets template.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "3.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4463838674"
-  }
-}
-</script>

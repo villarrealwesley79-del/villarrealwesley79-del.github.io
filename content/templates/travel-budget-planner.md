@@ -3,13 +3,32 @@ title: "Travel Budget Planner Spreadsheet"
 description: "Plan and track your travel expenses with this comprehensive Excel and Google Sheets template. Covers flights, hotels, activities, and daily spending."
 date: 2026-03-09
 draft: false
+price: 4.99
+etsy_url: "https://www.etsy.com/listing/4463863867"
+images:
+  - "/images/templates/travel-budget-planner.png"
+keywords:
+  - "travel budget planner"
+  - "vacation expense tracker"
+  - "trip budget spreadsheet"
+  - "google sheets travel budget"
+  - "travel expense tracker"
+faqs:
+  - q: "Can I use this for multi-city trips?"
+    a: "Yes. The template includes sections for multiple destinations within the same trip, with separate budgets for each stop."
+  - q: "Does it handle different currencies?"
+    a: "Yes. You can enter expenses in local currencies and the template converts them to your home currency for totals."
+  - q: "Can I track group expenses?"
+    a: "Yes. There's a section for shared expenses that calculates what each person owes."
+  - q: "When should I start using this?"
+    a: "Start during the planning phase to set your budget, then continue using it during your trip to track actual spending."
 ---
 
 # Travel Budget Planner
 
 **Price: $4.99**
 
-![Travel Budget Planner](/images/templates/travel-budget-planner.png)
+![Travel budget planner spreadsheet template preview showing trip categories and totals](/images/templates/travel-budget-planner.png)
 
 Plan your trip without overspending. This template tracks every travel expense from flights to souvenirs.
 
@@ -46,23 +65,3 @@ A: Start during the planning phase to set your budget, then continue using it du
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4463863867)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Travel Budget Planner Spreadsheet",
-  "description": "Plan and track your travel expenses with this comprehensive Excel and Google Sheets template.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "4.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4463863867"
-  }
-}
-</script>

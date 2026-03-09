@@ -3,13 +3,32 @@ title: "Ultimate Finance Bundle - All Templates"
 description: "Get all 11 finance spreadsheets in one bundle at 60% off. Budget templates, debt payoff, investment tracking, and more for Excel and Google Sheets."
 date: 2026-03-09
 draft: false
+price: 14.99
+etsy_url: "https://www.etsy.com/listing/4465760077"
+images:
+  - "/images/templates/ultimate-finance-bundle.png"
+keywords:
+  - "finance templates bundle"
+  - "budget spreadsheet bundle"
+  - "excel finance templates"
+  - "google sheets finance bundle"
+  - "personal finance toolkit"
+faqs:
+  - q: "How much do I save with the bundle?"
+    a: "Buying all templates individually costs $58.89. The bundle is $14.99 — that's over 60% off."
+  - q: "Do I get future template updates?"
+    a: "Yes. If we update any template in the bundle, you can re-download the updated version from your Etsy purchases."
+  - q: "What if I only need a few templates?"
+    a: "If you need 3 or fewer templates, buying individually may make more sense. But if you'll use 4+, the bundle pays for itself."
+  - q: "Are these the same templates sold individually?"
+    a: "Yes, identical. The bundle simply combines all 11 into one purchase at a discounted price."
 ---
 
 # Ultimate Finance Bundle
 
 **Price: $14.99** (Save 60% vs. buying separately)
 
-![Ultimate Finance Bundle](/images/templates/ultimate-finance-bundle.png)
+![Ultimate finance bundle spreadsheet templates preview showing multiple planner sheets](/images/templates/ultimate-finance-bundle.png)
 
 Everything you need to take control of your finances. All 11 templates in one download.
 
@@ -52,23 +71,3 @@ A: Yes, identical. The bundle simply combines all 11 into one purchase at a disc
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4465760077)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Ultimate Finance Bundle - All Templates",
-  "description": "Get all 11 finance spreadsheets in one bundle at 60% off for Excel and Google Sheets.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "14.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4465760077"
-  }
-}
-</script>

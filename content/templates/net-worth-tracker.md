@@ -3,13 +3,32 @@ title: "Net Worth Tracker Spreadsheet"
 description: "Track your net worth over time with this Excel and Google Sheets template. Log assets, liabilities, and see your financial progress."
 date: 2026-03-09
 draft: false
+price: 6.99
+etsy_url: "https://www.etsy.com/listing/4454782382"
+images:
+  - "/images/templates/net-worth-tracker.png"
+keywords:
+  - "net worth tracker spreadsheet"
+  - "assets and liabilities tracker"
+  - "net worth calculator excel"
+  - "google sheets net worth"
+  - "financial progress tracker"
+faqs:
+  - q: "How often should I update my net worth?"
+    a: "Monthly is ideal for most people. Update balances on the same day each month (like the 1st) for consistent tracking."
+  - q: "What counts as an asset?"
+    a: "Anything of value you own: bank accounts, investments, retirement accounts, home equity, vehicles, valuable personal property."
+  - q: "Should I include my home's value?"
+    a: "Yes, but be conservative. Use recent comparable sales or a conservative estimate, not Zillow's high estimate. Subtract your mortgage in liabilities."
+  - q: "How do I track joint finances with a partner?"
+    a: "Add all shared assets and debts to get household net worth. You can also maintain separate columns if you want to track individual contributions."
 ---
 
 # Net Worth Tracker
 
 **Price: $6.99**
 
-![Product Screenshot](/images/templates/net-worth-tracker.png)
+![Net worth tracker spreadsheet template preview showing assets, liabilities, and net worth chart](/images/templates/net-worth-tracker.png)
 
 Know your true financial position. Track assets, subtract liabilities, and watch your net worth grow over time.
 
@@ -46,23 +65,3 @@ A: Add all shared assets and debts to get household net worth. You can also main
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4454782382)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Net Worth Tracker Spreadsheet",
-  "description": "Track your net worth over time with this Excel and Google Sheets template.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "6.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4454782382"
-  }
-}
-</script>

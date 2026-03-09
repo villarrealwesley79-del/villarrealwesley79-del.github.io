@@ -3,13 +3,32 @@ title: "Debt Payoff Calculator Spreadsheet"
 description: "Create a debt payoff plan with snowball or avalanche methods. This Excel and Google Sheets template shows your payoff date and interest savings."
 date: 2026-03-09
 draft: false
+price: 6.99
+etsy_url: "https://www.etsy.com/listing/4454741352"
+images:
+  - "/images/templates/debt-payoff-calculator.png"
+keywords:
+  - "debt payoff calculator spreadsheet"
+  - "debt snowball excel"
+  - "debt avalanche calculator"
+  - "google sheets debt tracker"
+  - "debt repayment plan"
+faqs:
+  - q: "What's the difference between snowball and avalanche?"
+    a: "Snowball pays smallest debts first for quick wins. Avalanche pays highest interest first to minimize total interest. This template shows both so you can choose."
+  - q: "How many debts can I track?"
+    a: "The template supports up to 15 different debts with individual balances, interest rates, and minimum payments."
+  - q: "Can I see how extra payments help?"
+    a: "Yes. Enter different extra payment amounts and instantly see how your payoff date and total interest change."
+  - q: "Does it work for student loans?"
+    a: "Yes. The calculator works for any type of debt: credit cards, student loans, car loans, personal loans, medical debt, or mortgages."
 ---
 
 # Debt Payoff Calculator
 
 **Price: $6.99**
 
-![Product Screenshot](/images/templates/debt-payoff-calculator.png)
+![Debt payoff calculator spreadsheet template preview showing snowball and avalanche payoff schedules](/images/templates/debt-payoff-calculator.png)
 
 See exactly when you'll be debt-free. Compare payoff strategies and find the fastest path out of debt.
 
@@ -46,23 +65,3 @@ A: Yes. The calculator works for any type of debt: credit cards, student loans, 
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4454741352)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Debt Payoff Calculator Spreadsheet",
-  "description": "Create a debt payoff plan with snowball or avalanche methods using this Excel and Google Sheets template.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "6.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4454741352"
-  }
-}
-</script>

@@ -3,13 +3,32 @@ title: "Subscription Tracker Spreadsheet"
 description: "Track all your subscriptions and recurring bills in one place. See monthly and annual costs with this Excel and Google Sheets template."
 date: 2026-03-09
 draft: false
+price: 3.99
+etsy_url: "https://www.etsy.com/listing/4463836829"
+images:
+  - "/images/templates/subscription-tracker.png"
+keywords:
+  - "subscription tracker spreadsheet"
+  - "recurring bills tracker"
+  - "monthly subscriptions list"
+  - "google sheets subscription template"
+  - "expense tracker spreadsheet"
+faqs:
+  - q: "What counts as a subscription?"
+    a: "Any recurring charge: streaming services, software, gym memberships, subscription boxes, cloud storage, news sites, apps with monthly fees."
+  - q: "Can I track annual subscriptions?"
+    a: "Yes. Enter the billing frequency (monthly, quarterly, annual) and the template calculates your true monthly cost."
+  - q: "How do I find subscriptions I forgot about?"
+    a: "Check your bank and credit card statements for the last 12 months. Look for recurring charges and add them to the tracker."
+  - q: "Does this send renewal reminders?"
+    a: "The template shows upcoming renewal dates. You can sort by date to see what's renewing soon, but it doesn't send automated reminders."
 ---
 
 # Subscription Tracker
 
 **Price: $3.99**
 
-![Product Screenshot](/images/templates/subscription-tracker.png)
+![Subscription tracker spreadsheet template preview showing recurring bills and renewal dates](/images/templates/subscription-tracker.png)
 
 Stop subscription creep. See exactly what you're paying for every month and find subscriptions to cancel.
 
@@ -46,23 +65,3 @@ A: The template shows upcoming renewal dates. You can sort by date to see what's
 ---
 
 [**Buy on Etsy →**](https://www.etsy.com/listing/4463836829)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Subscription Tracker Spreadsheet",
-  "description": "Track all your subscriptions and recurring bills in one place with this Excel and Google Sheets template.",
-  "brand": {
-    "@type": "Brand",
-    "name": "FinanceCraftedSheets"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "3.99",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4463836829"
-  }
-}
-</script>
