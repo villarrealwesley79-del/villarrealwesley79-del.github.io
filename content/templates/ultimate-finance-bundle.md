@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Finance Bundle - All Templates"
 description: "Get all 11 finance spreadsheets in one bundle at 60% off. Budget templates, debt payoff, investment tracking, and more for Excel and Google Sheets."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 

@@ -1,13 +1,15 @@
 ---
 title: "Savings Goal Tracker Spreadsheet"
 description: "Track multiple savings goals with this visual Excel and Google Sheets template. See your progress and stay motivated to reach your targets."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Savings Goal Tracker
 
 **Price: $4.99**
+
+![Product Screenshot](/images/templates/savings-goal-tracker.png)
 
 Track every savings goal in one place. Visual progress bars keep you motivated to hit your targets.
 

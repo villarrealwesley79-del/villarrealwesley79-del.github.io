@@ -1,13 +1,15 @@
 ---
 title: "Wedding Budget Spreadsheet"
 description: "Plan your wedding without overspending. This Excel and Google Sheets template tracks every expense from venue to honeymoon."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Wedding Budget Spreadsheet
 
 **Price: $6.99**
+
+![Wedding Budget Planner](/images/templates/wedding-budget.png)
 
 Plan your perfect wedding without the financial stress. Track every vendor, payment, and expense in one place.
 

@@ -1,13 +1,15 @@
 ---
 title: "Subscription Tracker Spreadsheet"
 description: "Track all your subscriptions and recurring bills in one place. See monthly and annual costs with this Excel and Google Sheets template."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Subscription Tracker
 
 **Price: $3.99**
+
+![Product Screenshot](/images/templates/subscription-tracker.png)
 
 Stop subscription creep. See exactly what you're paying for every month and find subscriptions to cancel.
 

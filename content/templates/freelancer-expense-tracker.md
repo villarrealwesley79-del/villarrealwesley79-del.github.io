@@ -1,13 +1,15 @@
 ---
 title: "Freelancer Expense Tracker Spreadsheet"
 description: "Track business expenses for tax deductions with this freelancer-focused Excel and Google Sheets template. Categorized for Schedule C reporting."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Freelancer Expense Tracker
 
 **Price: $4.99**
+
+![Product Screenshot](/images/templates/freelancer-expense-tracker.png)
 
 Track every business expense and maximize your tax deductions. Built specifically for freelancers and self-employed professionals.
 

@@ -1,13 +1,15 @@
 ---
 title: "Side Hustle Income Tracker Spreadsheet"
 description: "Track income from multiple side hustles and gigs with this Excel and Google Sheets template. See earnings by source and month."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Side Hustle Income Tracker
 
 **Price: $3.99**
+
+![Product Screenshot](/images/templates/side-hustle-tracker.png)
 
 Track every dollar from your side hustles. See which gigs are worth your time and which aren't.
 

@@ -1,13 +1,15 @@
 ---
 title: "Investment Portfolio Tracker Spreadsheet"
 description: "Track stocks, ETFs, and other investments with this Excel and Google Sheets template. Monitor performance, allocation, and gains in one place."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Investment Portfolio Tracker
 
 **Price: $6.99**
+
+![Product Screenshot](/images/templates/investment-portfolio-tracker.png)
 
 Track your entire investment portfolio in one spreadsheet. See performance, allocation, and gains at a glance.
 

@@ -1,13 +1,15 @@
 ---
 title: "Monthly Budget Planner Spreadsheet"
 description: "Track income and expenses with this easy-to-use monthly budget template for Excel and Google Sheets. Automatic calculations and visual charts included."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Monthly Budget Planner
 
 **Price: $4.99**
+
+![Monthly Budget Planner](/images/templates/monthly-budget-planner.png)
 
 Take control of your monthly finances with this professional budget spreadsheet. Works in Excel and Google Sheets.
 

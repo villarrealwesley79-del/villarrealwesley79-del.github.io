@@ -1,13 +1,15 @@
 ---
 title: "Debt Payoff Calculator Spreadsheet"
 description: "Create a debt payoff plan with snowball or avalanche methods. This Excel and Google Sheets template shows your payoff date and interest savings."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Debt Payoff Calculator
 
 **Price: $6.99**
+
+![Product Screenshot](/images/templates/debt-payoff-calculator.png)
 
 See exactly when you'll be debt-free. Compare payoff strategies and find the fastest path out of debt.
 

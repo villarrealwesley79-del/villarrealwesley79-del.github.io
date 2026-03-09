@@ -1,13 +1,15 @@
 ---
 title: "Net Worth Tracker Spreadsheet"
 description: "Track your net worth over time with this Excel and Google Sheets template. Log assets, liabilities, and see your financial progress."
-date: 2025-01-01
+date: 2026-03-09
 draft: false
 ---
 
 # Net Worth Tracker
 
 **Price: $6.99**
+
+![Product Screenshot](/images/templates/net-worth-tracker.png)
 
 Know your true financial position. Track assets, subtract liabilities, and watch your net worth grow over time.
 

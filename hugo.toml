@@ -14,11 +14,12 @@ googleAnalytics = "G-3CJWBTD1SG"
   author = "FinanceCraftedSheets"
   defaultTheme = "auto"
   ShowReadingTime = false
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
   ShowToc = false
+  hideFooter = true
 
   [params.homeInfoParams]
     Title = "Professional Finance Spreadsheets"
