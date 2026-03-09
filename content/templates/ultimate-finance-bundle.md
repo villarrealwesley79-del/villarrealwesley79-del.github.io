@@ -9,6 +9,8 @@ draft: false
 
 **Price: $14.99** (Save 60% vs. buying separately)
 
+![Ultimate Finance Bundle](/images/templates/ultimate-finance-bundle.png)
+
 Everything you need to take control of your finances. All 11 templates in one download.
 
 ## What's Included

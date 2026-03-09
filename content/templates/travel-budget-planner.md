@@ -9,6 +9,8 @@ draft: false
 
 **Price: $4.99**
 
+![Travel Budget Planner](/images/templates/travel-budget-planner.png)
+
 Plan your trip without overspending. This template tracks every travel expense from flights to souvenirs.
 
 ## Features
