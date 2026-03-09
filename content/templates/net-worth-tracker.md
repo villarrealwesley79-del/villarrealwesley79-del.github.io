@@ -99,4 +99,10 @@ Assume your household has $9,500 in checking and savings, $32,000 in a 401(k), $
 
 ---
 
+## Related Templates
+
+- [Investment Portfolio Tracker Spreadsheet](/templates/investment-portfolio-tracker/)
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4454782382)

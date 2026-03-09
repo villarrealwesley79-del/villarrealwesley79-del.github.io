@@ -99,4 +99,10 @@ Suppose you list 14 subscriptions including $16.99 for a streaming service, $12.
 
 ---
 
+## Related Templates
+
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [50/30/20 Budget Spreadsheet](/templates/50-30-20-budget/)
+- [Net Worth Tracker Spreadsheet](/templates/net-worth-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4463836829)

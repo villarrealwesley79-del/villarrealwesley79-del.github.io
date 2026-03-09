@@ -99,4 +99,10 @@ Suppose you set a $24,000 wedding budget for 120 guests. You allocate $9,600 for
 
 ---
 
+## Related Templates
+
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [Travel Budget Planner Spreadsheet](/templates/travel-budget-planner/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4455370817)

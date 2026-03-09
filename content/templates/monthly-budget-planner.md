@@ -99,4 +99,10 @@ Let’s say your take-home income in April is $4,200 from two paychecks of $2,10
 
 ---
 
+## Related Templates
+
+- [50/30/20 Budget Spreadsheet](/templates/50-30-20-budget/)
+- [Subscription Tracker Spreadsheet](/templates/subscription-tracker/)
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4455592837)

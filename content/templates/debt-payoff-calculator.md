@@ -99,4 +99,10 @@ Suppose you have four debts: a $4,200 credit card at 21% with a $120 minimum, a 
 
 ---
 
+## Related Templates
+
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [50/30/20 Budget Spreadsheet](/templates/50-30-20-budget/)
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4454741352)

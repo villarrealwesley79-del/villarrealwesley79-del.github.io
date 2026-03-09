@@ -99,4 +99,10 @@ Imagine you earn $3,600 in March from two design clients. You log $220 in softwa
 
 ---
 
+## Related Templates
+
+- [Side Hustle Income Tracker Spreadsheet](/templates/side-hustle-income-tracker/)
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [Net Worth Tracker Spreadsheet](/templates/net-worth-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4455770456)

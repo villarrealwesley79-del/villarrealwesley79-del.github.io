@@ -99,4 +99,10 @@ Suppose you set three goals: $6,000 for an emergency fund by December, $1,500 fo
 
 ---
 
+## Related Templates
+
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [50/30/20 Budget Spreadsheet](/templates/50-30-20-budget/)
+- [Net Worth Tracker Spreadsheet](/templates/net-worth-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4454777557)

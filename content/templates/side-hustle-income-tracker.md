@@ -99,4 +99,10 @@ Say you drive for two platforms and sell products on Etsy. In February you earn 
 
 ---
 
+## Related Templates
+
+- [Freelancer Expense Tracker Spreadsheet](/templates/freelancer-expense-tracker/)
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [Net Worth Tracker Spreadsheet](/templates/net-worth-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4463838674)

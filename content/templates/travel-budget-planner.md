@@ -99,4 +99,10 @@ Assume a five-day trip for two people with a total budget of $2,400. You estimat
 
 ---
 
+## Related Templates
+
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [50/30/20 Budget Spreadsheet](/templates/50-30-20-budget/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4463863867)

@@ -99,4 +99,10 @@ Assume you hold $8,000 in an S&P 500 ETF, $5,500 in a total bond fund, $3,200 in
 
 ---
 
+## Related Templates
+
+- [Net Worth Tracker Spreadsheet](/templates/net-worth-tracker/)
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+- [Ultimate Finance Bundle - All Templates](/templates/ultimate-finance-bundle/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4454775765)

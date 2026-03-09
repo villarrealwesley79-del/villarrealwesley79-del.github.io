@@ -105,4 +105,10 @@ Imagine a couple starting a financial reset. They use the Monthly Budget Planner
 
 ---
 
+## Related Templates
+
+- [Monthly Budget Planner Spreadsheet](/templates/monthly-budget-planner/)
+- [Net Worth Tracker Spreadsheet](/templates/net-worth-tracker/)
+- [Savings Goal Tracker Spreadsheet](/templates/savings-goal-tracker/)
+
 [**Buy on Etsy →**](https://www.etsy.com/listing/4465760077)
