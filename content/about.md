@@ -1,58 +1,34 @@
 ---
-title: "About"
-layout: "single"
-summary: "About FinanceCraftedSheets"
-ShowToc: true
+title: "About FinanceCraftedSheets"
+description: "Professional Excel and Google Sheets templates for personal finance, budgeting, and financial planning."
 ---
 
-## About FinanceCraftedSheets
+# About FinanceCraftedSheets
 
-### Our Story
+We make professional finance spreadsheets that actually work.
 
-FinanceCraftedSheets was founded on a simple belief: **managing money should be simple, clear, and empowering.** We believe that with the right tools and knowledge, anyone can take control of their finances — regardless of their background or current financial situation.
+## What We Do
 
-We spent years watching people struggle with confusing spreadsheets, overwhelming budgeting apps, and conflicting financial advice. So we decided to create something different: beautifully designed, easy-to-use budget templates and financial spreadsheets that actually make sense.
+FinanceCraftedSheets creates Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning. Every template is designed by someone who actually uses spreadsheets for personal finance — not a designer who's never tracked a budget.
 
-### What We Offer
+## Our Templates
 
-We create practical financial tools and resources available on Etsy, including:
+- **Budget Templates** — Monthly budgets, 50/30/20 method, savings trackers
+- **Expense Tracking** — Freelancer expenses, subscriptions, side hustle income
+- **Investing & Debt** — Debt payoff calculators, portfolio trackers, net worth tracking
+- **Special Purpose** — Wedding budgets, travel planning
 
-- **Budget Templates** — Monthly, weekly, and annual budgets for Google Sheets and Excel
-- **Debt Payoff Trackers** — Snowball and avalanche method calculators
-- **Savings Goal Planners** — Track your progress toward financial freedom
-- **Expense Trackers** — Categorize and visualize your spending
-- **Net Worth Dashboards** — Monitor your financial progress over time
-- **Educational Content** — Articles, guides, and tips on personal finance
+## Why Spreadsheets?
 
-### Why Our Templates?
+Apps come and go. Subscriptions add up. Your data gets locked in someone else's system.
 
-Every template is crafted with three principles in mind:
+Spreadsheets are different:
+- You own your data forever
+- No monthly fees
+- Works offline
+- Customize anything you want
+- Export and backup easily
 
-1. **Clean Design** — Beautiful, distraction-free layouts that make tracking your money enjoyable
-2. **Clear Instructions** — Step-by-step guidance so you know exactly how to use each tool
-3. **Automatic Calculations** — No complicated formulas to figure out — just plug in your numbers and go
+## Where to Buy
 
-### Our Mission
-
-FinanceCraftedSheets exists to empower people with practical financial tools and education. We believe that financial literacy and smart money management are within reach for everyone, and our goal is to make the journey easier, clearer, and more rewarding.
-
-### On This Blog
-
-This blog is where we share:
-- Budgeting strategies and best practices
-- Financial tips and money-saving ideas
-- Guides to using our templates effectively
-- Practical insights on managing debt, savings, and wealth-building
-- Educational content for all financial backgrounds
-
-All content is designed to be **informational and educational** — not a substitute for professional financial advice. See our [Financial Disclaimer](/disclaimer/) for details.
-
-### Shop Our Templates
-
-Ready to take control of your finances? Browse our complete collection of budget templates, trackers, and planners:
-
-👉 **[Visit FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets)**
-
----
-
-Thank you for being part of the FinanceCraftedSheets community. Whether you're just starting your financial journey or optimizing your existing strategy, we're here to help.
+All templates are available on our [Etsy shop](https://www.etsy.com/shop/FinanceCraftedSheets). Instant digital download, works in Excel and Google Sheets.

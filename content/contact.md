@@ -1,38 +1,29 @@
 ---
 title: "Contact"
-layout: "single"
-summary: "Contact FinanceCraftedSheets"
-ShowToc: false
+description: "Get in touch with FinanceCraftedSheets for questions about our Excel and Google Sheets templates."
 ---
 
-## Get in Touch
+# Contact Us
 
-We'd love to hear from you! Whether you have questions about our templates, suggestions for new resources, or just want to say hello, feel free to reach out.
+Have a question about our templates? Need help with a purchase?
 
-### Email
+## Email
 
-**Email:** [bobvillarreal97@gmail.com](mailto:bobvillarreal97@gmail.com)
+**bobvillarreal97@gmail.com**
 
-We typically respond within 24-48 hours during business days.
+We typically respond within 24-48 hours.
 
-### What Can We Help With?
+## Common Questions
 
-- 📧 Questions about our budget templates or spreadsheets
-- 💡 Suggestions for new template types
-- 🛠️ Technical support with our templates
-- 🤝 Partnership or collaboration inquiries
-- ✨ General feedback on our blog and resources
+**Having trouble downloading?**
+Check your Etsy purchases page. Downloads are available immediately after purchase. If you don't see it, check your spam folder for the Etsy confirmation email.
 
-### Shop
+**Need a different file format?**
+All templates work in both Excel (.xlsx) and Google Sheets. Upload the Excel file to Google Drive to use in Sheets.
 
-Browse our complete collection of budget templates, debt payoff trackers, savings planners, and more on our Etsy shop:
+**Want a custom template?**
+We occasionally take custom requests. Email us with details about what you need.
 
-👉 **[Visit FinanceCraftedSheets on Etsy](https://www.etsy.com/shop/FinanceCraftedSheets)**
+## Etsy Shop
 
-### Follow Us
-
-- **Etsy Shop:** [FinanceCraftedSheets](https://www.etsy.com/shop/FinanceCraftedSheets)
-
----
-
-We appreciate your interest in FinanceCraftedSheets. We're passionate about helping you take control of your finances with practical, beautiful, and easy-to-use tools.
+For order-related questions, you can also message us through [our Etsy shop](https://www.etsy.com/shop/FinanceCraftedSheets).

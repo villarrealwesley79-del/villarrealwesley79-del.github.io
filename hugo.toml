@@ -3,25 +3,26 @@ languageCode = "en-us"
 title = "FinanceCraftedSheets"
 theme = "PaperMod"
 googleAnalytics = "G-3CJWBTD1SG"
+
 [pagination]
   pagerSize = 10
 
 [params]
   env = "production"
   title = "FinanceCraftedSheets"
-  description = "Budget templates, financial spreadsheets, and money management tips to help you take control of your finances."
+  description = "Professional Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning. Shop our ready-to-use spreadsheets."
   author = "FinanceCraftedSheets"
   defaultTheme = "auto"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowToc = true
+  ShowCodeCopyButtons = false
+  ShowToc = false
 
   [params.homeInfoParams]
-    Title = "Welcome to FinanceCraftedSheets"
-    Content = "Budget templates, financial tools, and money tips — crafted to simplify your finances."
+    Title = "Professional Finance Spreadsheets"
+    Content = "Excel and Google Sheets templates for budgeting, debt payoff, and financial planning. Ready to use, easy to customize."
 
   [[params.socialIcons]]
     name = "etsy"
@@ -42,8 +43,8 @@ googleAnalytics = "G-3CJWBTD1SG"
   weight = 1
 
 [[menu.main]]
-  name = "Blog"
-  url = "/posts/"
+  name = "Templates"
+  url = "/templates/"
   weight = 2
 
 [[menu.main]]
@@ -52,26 +53,6 @@ googleAnalytics = "G-3CJWBTD1SG"
   weight = 3
 
 [[menu.main]]
-  name = "Templates"
-  url = "https://www.etsy.com/shop/FinanceCraftedSheets"
-  weight = 4
-
-[[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 5
-
-[[menu.main]]
-  name = "Privacy"
-  url = "/privacy/"
-  weight = 6
-
-[[menu.main]]
-  name = "Terms"
-  url = "/terms/"
-  weight = 7
-
-[[menu.main]]
-  name = "Disclaimer"
-  url = "/disclaimer/"
-  weight = 8
+  weight = 4
