@@ -1,34 +1,21 @@
 # FinanceCraftedSheets
+> Professional Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning, plus practical finance guides.
 
-## About
-Professional Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning. Available on Etsy.
+## Templates
+- [50/30/20 Budget Spreadsheet](https://villarrealwesley79-del.github.io/templates/50-30-20-budget/)
+- [Debt Payoff Calculator Spreadsheet](https://villarrealwesley79-del.github.io/templates/debt-payoff-calculator/)
+- [Freelancer Expense Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/freelancer-expense-tracker/)
+- [Investment Portfolio Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/investment-portfolio-tracker/)
+- [Monthly Budget Planner Spreadsheet](https://villarrealwesley79-del.github.io/templates/monthly-budget-planner/)
+- [Net Worth Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/net-worth-tracker/)
+- [Savings Goal Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/savings-goal-tracker/)
+- [Side Hustle Income Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/side-hustle-income-tracker/)
+- [Subscription Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/subscription-tracker/)
+- [Travel Budget Planner Spreadsheet](https://villarrealwesley79-del.github.io/templates/travel-budget-planner/)
+- [Ultimate Finance Bundle - All Templates](https://villarrealwesley79-del.github.io/templates/ultimate-finance-bundle/)
+- [Wedding Budget Spreadsheet](https://villarrealwesley79-del.github.io/templates/wedding-budget/)
 
-## Products
-
-### Budgeting Templates
-- Monthly Budget Planner ($4.99) - Track income and expenses monthly
-- 50/30/20 Budget Spreadsheet ($4.99) - Apply the simple budgeting framework
-- Savings Goal Tracker ($4.99) - Track multiple savings goals with progress bars
-- Travel Budget Planner ($4.99) - Plan and track vacation spending
-
-### Expense Tracking
-- Freelancer Expense Tracker ($4.99) - Tax-ready business expense tracking
-- Subscription Tracker ($3.99) - Find and cut recurring charges
-- Side Hustle Income Tracker ($3.99) - Track gig economy earnings
-
-### Investing & Debt
-- Debt Payoff Calculator ($6.99) - Snowball and avalanche payoff plans
-- Investment Portfolio Tracker ($6.99) - Track stocks, ETFs, and funds
-- Net Worth Tracker ($6.99) - Monitor your total financial picture
-
-### Special Purpose
-- Wedding Budget Spreadsheet ($6.99) - Plan your wedding without overspending
-- Ultimate Finance Bundle ($14.99) - All 11 templates at 60% off
-
-## Links
-- Shop: https://www.etsy.com/shop/FinanceCraftedSheets
-- Website: https://villarrealwesley79-del.github.io/
-- Templates: https://villarrealwesley79-del.github.io/templates/
-
-## Contact
-Email: bobvillarreal97@gmail.com
+## Guides
+- [Best Budget Templates for 2026](https://villarrealwesley79-del.github.io/guides/best-budget-templates-2026/)
+- [50/30/20 Budget Guide](https://villarrealwesley79-del.github.io/guides/50-30-20-budget-guide/)
+- [How to Pay Off Debt](https://villarrealwesley79-del.github.io/guides/how-to-pay-off-debt/)

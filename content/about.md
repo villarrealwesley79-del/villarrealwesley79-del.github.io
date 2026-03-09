@@ -29,6 +29,10 @@ Spreadsheets are different:
 - Customize anything you want
 - Export and backup easily
 
+## Meet the Creator
+
+I’m Wesley Villarreal. I have an MBA in Accounting from Texas A&M University San Antonio and I’m an AVP at a major regional bank. I’ve spent 5+ years in financial analysis, FP&A, and data analytics, and I build models every week in Excel, Power BI, and SQL. FinanceCraftedSheets started as the set of spreadsheets I wanted for my own budgeting and planning. I keep the templates practical, clean, and built around how people actually use numbers, not how apps try to force them.
+
 ## Where to Buy
 
 All templates are available on our [Etsy shop](https://www.etsy.com/shop/FinanceCraftedSheets). Instant digital download, works in Excel and Google Sheets.

@@ -22,6 +22,12 @@ faqs:
     a: "Yes. There's a section for shared expenses that calculates what each person owes."
   - q: "When should I start using this?"
     a: "Start during the planning phase to set your budget, then continue using it during your trip to track actual spending."
+  - q: "Can I set a daily spending limit?"
+    a: "Yes. Set your daily budget and compare it to actual spending each day."
+  - q: "Can I track deposits versus final payments?"
+    a: "Yes. Record the deposit and final payment separately so you can see what is still due before your trip."
+  - q: "Does it work for travel rewards or points?"
+    a: "You can note points redemptions in the payment notes and track the cash portion in the totals."
 ---
 
 # Travel Budget Planner
@@ -61,6 +67,35 @@ A: Yes. There's a section for shared expenses that calculates what each person o
 
 **Q: When should I start using this?**
 A: Start during the planning phase to set your budget, then continue using it during your trip to track actual spending.
+
+**Q: Can I set a daily spending limit?**
+A: Yes. Set your daily budget and compare it to actual spending each day.
+
+**Q: Can I track deposits versus final payments?**
+A: Yes. Record the deposit and final payment separately so you can see what is still due before your trip.
+
+**Q: Does it work for travel rewards or points?**
+A: You can note points redemptions in the payment notes and track the cash portion in the totals.
+
+## How It Works
+
+1. **Plan your categories** by entering estimated costs for flights, lodging, transportation, food, activities, and shopping.
+2. **Add trip dates and destinations** so your daily budget and per-city totals are clear.
+3. **Record deposits and payments** as you book, which keeps you aware of what is paid and what is still due.
+4. **Track actual spending daily** while traveling to stay within your limits.
+5. **Compare budget versus actual** after the trip to learn what to adjust for next time.
+
+## What Makes This Different
+
+Travel apps and budgeting apps often separate planning from tracking, which makes it easy to lose the full picture. A spreadsheet puts both in one place. You can see the plan, the payments, and the daily spending without switching tools or paying for a travel finance app.
+
+A spreadsheet also adapts to the way you travel. Whether you book all-inclusive packages, use points for flights, or split costs with friends, you can record it exactly as it happened. Apps usually assume one payment method and one traveler, while real trips are more complex.
+
+Because you own the file, you can reuse it for future trips and compare costs across years. That kind of historical insight is hard to get from an app that only stores a single trip at a time or limits exports.
+
+## Real-World Example
+
+Assume a five-day trip for two people with a total budget of $2,400. You estimate $900 for flights, $750 for lodging, $450 for food, $200 for activities, and $100 for local transportation. You pay a $300 lodging deposit and use points for one flight valued at $250. During the trip, you log $420 for food and $230 for activities, which shows you are $30 over in activities but still $20 under overall. The sheet displays the updated remaining balance and the daily average you can spend for the rest of the trip.
 
 ---
 

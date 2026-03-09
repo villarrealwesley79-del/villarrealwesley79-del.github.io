@@ -22,6 +22,12 @@ faqs:
     a: "Check your bank and credit card statements for the last 12 months. Look for recurring charges and add them to the tracker."
   - q: "Does this send renewal reminders?"
     a: "The template shows upcoming renewal dates. You can sort by date to see what's renewing soon, but it doesn't send automated reminders."
+  - q: "Can I track free trials?"
+    a: "Yes. Add the trial with its renewal date so you can cancel before it converts."
+  - q: "Can I note shared family plans?"
+    a: "Yes. Use the notes column to track who shares a plan and how costs are split."
+  - q: "Does it work for recurring bills like insurance?"
+    a: "Yes. Add any recurring payment with a billing frequency and it will calculate the monthly and annual cost."
 ---
 
 # Subscription Tracker
@@ -61,6 +67,35 @@ A: Check your bank and credit card statements for the last 12 months. Look for r
 
 **Q: Does this send renewal reminders?**
 A: The template shows upcoming renewal dates. You can sort by date to see what's renewing soon, but it doesn't send automated reminders.
+
+**Q: Can I track free trials?**
+A: Yes. Add the trial with its renewal date so you can cancel before it converts.
+
+**Q: Can I note shared family plans?**
+A: Yes. Use the notes column to track who shares a plan and how costs are split.
+
+**Q: Does it work for recurring bills like insurance?**
+A: Yes. Add any recurring payment with a billing frequency and it will calculate the monthly and annual cost.
+
+## How It Works
+
+1. **List every recurring charge** with the service name, billing amount, and billing frequency.
+2. **Add renewal dates** so you can see what is coming up and decide whether to keep it.
+3. **Tag each subscription by category** like streaming, software, fitness, or household.
+4. **Review monthly and annual totals** to see the true cost of each subscription.
+5. **Flag cancel candidates** and track changes as you pause, downgrade, or cancel services.
+
+## What Makes This Different
+
+Many subscription apps try to auto-detect charges, but they miss smaller services and do not show the real annual impact. A spreadsheet gives you complete control and makes every recurring charge visible, even if it is billed quarterly or once per year.
+
+Apps also tend to be tied to a bank connection or a paid tier for export. With a spreadsheet you can track subscriptions from multiple cards, shared family plans, and business tools in one place. It is a clear inventory you can update in minutes.
+
+Spreadsheets also reduce friction. You do not need to connect accounts or pay to access your own history. This is a one-time purchase that continues working even if a service changes names, billing cycles, or pricing.
+
+## Real-World Example
+
+Suppose you list 14 subscriptions including $16.99 for a streaming service, $12.99 for music, $9.99 for cloud storage, $29.00 for a gym, $14.00 for a news site, and $120 per year for a password manager. The tracker converts the annual $120 charge to $10 per month and shows your total monthly subscription cost is $142.97. After reviewing the category totals, you decide to cancel the $14 news site and downgrade the gym to a $19 plan. The sheet immediately shows a new monthly total of $128.97 and an annual savings of $168.
 
 ---
 

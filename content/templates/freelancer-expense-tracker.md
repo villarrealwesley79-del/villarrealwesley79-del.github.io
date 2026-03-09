@@ -22,6 +22,12 @@ faqs:
     a: "Yes. You can tag expenses by client or project to see profitability by engagement."
   - q: "Does it calculate quarterly estimated taxes?"
     a: "The template tracks income and expenses. You can use the totals to estimate quarterly payments, though it doesn't calculate tax rates."
+  - q: "Can I separate business and personal spending?"
+    a: "Yes. The tracker is built for business use and keeps your deductible expenses separate from personal items."
+  - q: "Does the mileage tracker allow custom rates?"
+    a: "Yes. You can enter your own mileage rate and the deduction totals update automatically."
+  - q: "Can I log invoices or payments received?"
+    a: "Yes. Use the income section to record invoices paid, payment dates, and client notes."
 ---
 
 # Freelancer Expense Tracker
@@ -61,6 +67,35 @@ A: Yes. You can tag expenses by client or project to see profitability by engage
 
 **Q: Does it calculate quarterly estimated taxes?**
 A: The template tracks income and expenses. You can use the totals to estimate quarterly payments, though it doesn't calculate tax rates.
+
+**Q: Can I separate business and personal spending?**
+A: Yes. The tracker is built for business use and keeps your deductible expenses separate from personal items.
+
+**Q: Does the mileage tracker allow custom rates?**
+A: Yes. You can enter your own mileage rate and the deduction totals update automatically.
+
+**Q: Can I log invoices or payments received?**
+A: Yes. Use the income section to record invoices paid, payment dates, and client notes.
+
+## How It Works
+
+1. **Set up your business profile** by confirming your category list and mileage rate. The default categories align with Schedule C.
+2. **Log expenses as they happen** with date, vendor, amount, category, and a note for the business purpose.
+3. **Record income by client** so you can compare revenue against expenses by project or month.
+4. **Use the mileage tab** to log trips, purpose, and miles so the deduction totals automatically.
+5. **Review monthly and annual summaries** to see deductible totals and export-ready figures for tax prep.
+
+## What Makes This Different
+
+Many expense apps require paid tiers to unlock categories, reports, or exports. A spreadsheet gives you full access from day one. You can add categories, create custom tags, and build a view that matches how you actually work without paying for add-ons.
+
+Freelancers also need flexibility that apps often ignore. Some months are heavy on travel, other months are all software subscriptions. With a spreadsheet, you decide the level of detail. You can track receipts, mileage, and client notes in the same file and see the full story at tax time.
+
+Spreadsheets also keep your data under your control. If you change software later, you still have a clean history in one file. That means no export limits, no account lockouts, and no scrambling when an app changes pricing or features.
+
+## Real-World Example
+
+Imagine you earn $3,600 in March from two design clients. You log $220 in software subscriptions, $140 in advertising, $95 in office supplies, $180 in professional education, and $310 in travel and parking. You also drove 240 business miles at a $0.67 rate, which adds a $160.80 mileage deduction. The summary shows $1,105.80 in deductible expenses, so your net business income for the month is $2,494.20. When quarterly taxes are due, you already have a clean total to work from, and your receipts are matched to each entry.
 
 ---
 
