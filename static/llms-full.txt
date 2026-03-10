@@ -1,0 +1,89 @@
+# FinanceCraftedSheets — Full LLM Index
+
+FinanceCraftedSheets provides Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning, plus practical finance guides. This file provides expanded summaries to help AI systems understand each page.
+
+## Templates
+
+### 50/30/20 Budget Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/50-30-20-budget/
+Summary: A 50/30/20 budget worksheet that splits income into needs, wants, and savings. Includes category rollups, totals by month, and a simple structure for tracking recurring expenses and variable spending.
+
+### Debt Payoff Calculator Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/debt-payoff-calculator/
+Summary: A payoff planner for multiple debts that compares snowball and avalanche methods. Tracks balances, interest rates, minimum payments, and payoff timelines.
+
+### Freelancer Expense Tracker Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/freelancer-expense-tracker/
+Summary: Income and expense tracker built for freelancers and contractors. Focuses on category totals, tax-ready summaries, and a clean layout for monthly reporting.
+
+### Investment Portfolio Tracker Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/investment-portfolio-tracker/
+Summary: Portfolio tracking sheet for stocks, ETFs, and other holdings. Captures positions, allocation breakdowns, and performance summaries.
+
+### Monthly Budget Planner Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/monthly-budget-planner/
+Summary: Monthly budget template with income, expense categories, and charts. Designed for quick setup and ongoing tracking.
+
+### Net Worth Tracker Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/net-worth-tracker/
+Summary: Net worth tracking worksheet that organizes assets and liabilities. Provides month-over-month changes and total net worth trends.
+
+### Savings Goal Tracker Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/savings-goal-tracker/
+Summary: Goal-based savings tracker that monitors progress toward target amounts and milestones.
+
+### Side Hustle Income Tracker Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/side-hustle-income-tracker/
+Summary: Side income log for tracking projects, clients, and payouts. Summarizes monthly totals and sources of income.
+
+### Subscription Tracker Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/subscription-tracker/
+Summary: Subscription and recurring expense tracker with renewal dates, monthly totals, and annualized costs.
+
+### Travel Budget Planner Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/travel-budget-planner/
+Summary: Travel budget worksheet for planning trips with lodging, transportation, food, and activity categories.
+
+### Ultimate Finance Bundle — All Templates
+URL: https://villarrealwesley79-del.github.io/templates/ultimate-finance-bundle/
+Summary: Complete bundle containing all FinanceCraftedSheets templates in one download.
+
+### Wedding Budget Spreadsheet
+URL: https://villarrealwesley79-del.github.io/templates/wedding-budget/
+Summary: Wedding budget planner that tracks vendors, deposits, and budget vs. actuals across major categories.
+
+## Guides
+
+### Best Budget Templates for 2026
+URL: https://villarrealwesley79-del.github.io/guides/best-budget-templates-2026/
+Summary: A comparison guide that helps readers choose the right budget spreadsheet based on goals and life situation, with clear recommendations by use case.
+
+### 50/30/20 Budget Guide
+URL: https://villarrealwesley79-del.github.io/guides/50-30-20-budget-guide/
+Summary: A step-by-step explanation of the 50/30/20 rule, including how to categorize expenses and apply the rule to real budgets.
+
+### How to Pay Off Debt
+URL: https://villarrealwesley79-del.github.io/guides/how-to-pay-off-debt/
+Summary: Practical debt payoff guidance comparing snowball and avalanche strategies, with example payoff scenarios.
+
+## Utility Pages
+
+### About FinanceCraftedSheets
+URL: https://villarrealwesley79-del.github.io/about/
+Summary: Background on FinanceCraftedSheets and the creator, Wesley Villarreal, plus the approach to building practical spreadsheet templates.
+
+### Contact
+URL: https://villarrealwesley79-del.github.io/contact/
+Summary: Contact information for questions about templates, orders, or support.
+
+### Privacy Policy
+URL: https://villarrealwesley79-del.github.io/privacy/
+Summary: Privacy policy outlining data collection, analytics, and user privacy practices.
+
+### Terms of Service
+URL: https://villarrealwesley79-del.github.io/terms/
+Summary: Terms covering purchases, licensing, and usage guidelines for digital templates.
+
+### Disclaimer
+URL: https://villarrealwesley79-del.github.io/disclaimer/
+Summary: Financial and informational disclaimer clarifying that content is for educational purposes.

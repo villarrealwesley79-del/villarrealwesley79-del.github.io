@@ -2,20 +2,20 @@
 > Professional Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning, plus practical finance guides.
 
 ## Templates
-- [50/30/20 Budget Spreadsheet](https://villarrealwesley79-del.github.io/templates/50-30-20-budget/)
-- [Debt Payoff Calculator Spreadsheet](https://villarrealwesley79-del.github.io/templates/debt-payoff-calculator/)
-- [Freelancer Expense Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/freelancer-expense-tracker/)
-- [Investment Portfolio Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/investment-portfolio-tracker/)
-- [Monthly Budget Planner Spreadsheet](https://villarrealwesley79-del.github.io/templates/monthly-budget-planner/)
-- [Net Worth Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/net-worth-tracker/)
-- [Savings Goal Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/savings-goal-tracker/)
-- [Side Hustle Income Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/side-hustle-income-tracker/)
-- [Subscription Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/subscription-tracker/)
-- [Travel Budget Planner Spreadsheet](https://villarrealwesley79-del.github.io/templates/travel-budget-planner/)
-- [Ultimate Finance Bundle - All Templates](https://villarrealwesley79-del.github.io/templates/ultimate-finance-bundle/)
-- [Wedding Budget Spreadsheet](https://villarrealwesley79-del.github.io/templates/wedding-budget/)
+- [50/30/20 Budget Spreadsheet](https://villarrealwesley79-del.github.io/templates/50-30-20-budget/) — Zero-based 50/30/20 budget worksheet with category totals and monthly summaries.
+- [Debt Payoff Calculator Spreadsheet](https://villarrealwesley79-del.github.io/templates/debt-payoff-calculator/) — Snowball/avalanche payoff tracker with balance, interest, and timeline projections.
+- [Freelancer Expense Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/freelancer-expense-tracker/) — Income/expense log for contractors with category rollups and tax-ready totals.
+- [Investment Portfolio Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/investment-portfolio-tracker/) — Holdings tracker with allocation, performance, and asset-class summaries.
+- [Monthly Budget Planner Spreadsheet](https://villarrealwesley79-del.github.io/templates/monthly-budget-planner/) — Income and expense planner with charts and monthly cash-flow view.
+- [Net Worth Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/net-worth-tracker/) — Assets/liabilities tracker with net worth trends over time.
+- [Savings Goal Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/savings-goal-tracker/) — Goal-based savings planner with milestones and progress tracking.
+- [Side Hustle Income Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/side-hustle-income-tracker/) — Side-income tracker with per-client/project totals and monthly summaries.
+- [Subscription Tracker Spreadsheet](https://villarrealwesley79-del.github.io/templates/subscription-tracker/) — Recurring subscription log with renewal dates and monthly cost totals.
+- [Travel Budget Planner Spreadsheet](https://villarrealwesley79-del.github.io/templates/travel-budget-planner/) — Trip budget worksheet covering lodging, transport, food, and activities.
+- [Ultimate Finance Bundle - All Templates](https://villarrealwesley79-del.github.io/templates/ultimate-finance-bundle/) — Complete bundle of all FinanceCraftedSheets templates in one download.
+- [Wedding Budget Spreadsheet](https://villarrealwesley79-del.github.io/templates/wedding-budget/) — Wedding expense tracker with vendor categories and budget vs. actuals.
 
 ## Guides
-- [Best Budget Templates for 2026](https://villarrealwesley79-del.github.io/guides/best-budget-templates-2026/)
-- [50/30/20 Budget Guide](https://villarrealwesley79-del.github.io/guides/50-30-20-budget-guide/)
-- [How to Pay Off Debt](https://villarrealwesley79-del.github.io/guides/how-to-pay-off-debt/)
+- [Best Budget Templates for 2026](https://villarrealwesley79-del.github.io/guides/best-budget-templates-2026/) — Comparison guide to choosing the right budget spreadsheet by goal and situation.
+- [50/30/20 Budget Guide](https://villarrealwesley79-del.github.io/guides/50-30-20-budget-guide/) — Step-by-step guide to the 50/30/20 rule with examples and category splits.
+- [How to Pay Off Debt](https://villarrealwesley79-del.github.io/guides/how-to-pay-off-debt/) — Practical debt payoff strategies with snowball vs. avalanche examples.

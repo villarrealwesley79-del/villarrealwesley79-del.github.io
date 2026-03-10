@@ -11,7 +11,7 @@ googleAnalytics = "G-3CJWBTD1SG"
   env = "production"
   title = "FinanceCraftedSheets"
   description = "Professional Excel and Google Sheets templates for budgeting, debt payoff, investing, and financial planning. Shop our ready-to-use spreadsheets."
-  author = "FinanceCraftedSheets"
+  author = "Wesley Villarreal"
   defaultTheme = "auto"
   ShowReadingTime = false
   ShowShareButtons = false
@@ -31,6 +31,13 @@ googleAnalytics = "G-3CJWBTD1SG"
 
 [params.assets]
   favicon = "/favicon.ico"
+  logo = "/images/logo.svg"
+
+[params.schema]
+  authorName = "Wesley Villarreal"
+  authorJobTitle = "AVP, Frost Bank"
+  authorUrl = "https://www.linkedin.com/in/wesleyvillarreal/"
+  sameAs = ["https://www.linkedin.com/in/wesleyvillarreal/", "https://www.etsy.com/shop/FinanceCraftedSheets", "https://x.com/CraftedSheets"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
